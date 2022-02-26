@@ -1,0 +1,829 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oriens ab occidente: or, A dawning in the vvest· As it was delivered in a sermon before the Honourable House of Commons, at Westminster; upon their day of thanksgiving, for severall victories in the west, &amp;c. By John Bond Mr of the Savoy, and one of the Assembly of Divines.</title>
+            <author>Bond, John, 1612-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77005</idno>
+            <idno type="STC">Wing B3572A</idno>
+            <idno type="STC">ESTC R211371</idno>
+            <idno type="EEBO-CITATION">99895403</idno>
+            <idno type="PROQUEST">99895403</idno>
+            <idno type="VID">152848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152848)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2327:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oriens ab occidente: or, A dawning in the vvest· As it was delivered in a sermon before the Honourable House of Commons, at Westminster; upon their day of thanksgiving, for severall victories in the west, &amp;c. By John Bond Mr of the Savoy, and one of the Assembly of Divines.</title>
+                  <author>Bond, John, 1612-1676.</author>
+               </titleStmt>
+               <extent>[4], 47, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.D. for Fr. Eglesfield, and are to be sold at his shop, at the sign of the Mary-gold in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon of thanksgiving, for the taking of Bridgewater, and Sherborn-Castle, &amp;c. in the west.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152848:1" rendition="simple:additions"/>
+            <p>Oriens ab Occidente: OR, A DAWNING IN THE VVEST.</p>
+            <p>As it was delivered in a <hi>Sermon</hi> before the Honourable Houſe of COMMONS, at <hi>Weſtminſter;</hi> upon their day of THANKSGIVING, for ſeverall Victories in the <hi>Weſt,</hi> &amp;c.</p>
+            <p>By JOHN BOND M<hi rend="sup">r</hi> of the <hi>Savoy,</hi> and one of the Aſſembly of Divines.</p>
+            <q>
+               <bibl>
+                  <hi>Ezra 9. v. 8.</hi>
+               </bibl> And now for a little ſpace grace bath been ſhewed from the Lord our God, to leave us a remnant to eſcape, and to give us a naile in his Holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.</q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 2. v. 11.</hi>
+               </bibl>— Rejoyce with trembling.</q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J.D.</hi> for <hi>Fr. Eglesfield,</hi> and are to be ſold at his Shop, at the ſign of the <hi>Mary gold</hi> in Pauls Church-yard. 1645.</p>
+         </div>
+         <div type="order">
+            <pb facs="tcp:152848:2"/>
+            <head>
+               <hi>Die Sabbathi</hi> 23. <hi>Auguſti.</hi> 1645.</head>
+            <p>ORdered by the Commons aſſembled in Parliament, That M<hi rend="sup">r</hi> 
+               <hi>Gourdon</hi> and M<hi rend="sup">r</hi> 
+               <hi>Bond</hi> doe from this Houſe give thanks to M<hi rend="sup">r</hi> 
+               <hi>Caſe</hi> and M<hi rend="sup">r</hi> 
+               <hi>Bond,</hi> for their great paines they took in the Sermons they preached yeſterday before the Commons, at S<hi rend="sup">t</hi> 
+               <hi>Mar<g ref="char:EOLhyphen"/>garets Weſtminster,</hi> it being a day ſet a part for publike Thankſ<g ref="char:EOLhyphen"/>giving: And it is Ordered that they be deſired to Print their Ser<g ref="char:EOLhyphen"/>mons, and that none ſhall preſume to print them without Licenſe under their hands-writing.</p>
+            <closer>
+               <signed>Henry Elſynge Cler. Parl. Dom. Com.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152848:2"/>
+            <head>To the Honourable Houſe of COMMONS, aſſembled in Parliament.</head>
+            <opener>
+               <salute>Worthy Senators,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S this Sermon was too much ſhortened in time at its conception and birth, (in the Study and in the Pulpit) ſo hath it been too too long (in the cradle) comming forth to publike view. One principall cauſe of this ſlow motion (beſides ſome avocati<g ref="char:EOLhyphen"/>ons of mine owne) hath been the great throng of your <hi>late Victories,</hi> which crouded-in upon the <hi>Stationers</hi> ſo faſt, that this Sermon (like that
+<note n="*" place="margin">2 Kings 7.17.</note> Courtier in the gate of <hi>Samaria</hi>) hath <hi>ſtuck faſt</hi> in the preſſe of good news: and even now at laſt 'tis no ſooner gotten through the croud, but be<g ref="char:EOLhyphen"/>hold another pair of Thankſgiving Sermons are ready to tread upon its heels. Surely if the Lord of hoſts did ever ſtrive to overcome a <hi>Par<g ref="char:EOLhyphen"/>liament</hi> of <hi>England</hi> with giving them Victories, your ſelves are that <hi>Parliament: For what Nation is there ſo great, that hath God ſo nigh unto them, as the Lord your God is in all things that we call upon him for?</hi> Oh what a <hi>Maſter</hi> do you <hi>ſerve?</hi>
+               <note place="margin">Deut. 4.7.</note> Or what doth the Fa<g ref="char:EOLhyphen"/>ther of mercies <hi>meane</hi> to do with us? As for mine own part, I muſt confeſſe, that the preſent unexpected heapes of ſalvations doe caſt me into the ſame trance with that of
+<note n="*" place="margin">Gen. 42.28</note> 
+               <hi>Joſephs</hi> brethren, when opening their ſacks for provender they found meate and money to boot; tis ſaid that then, — <hi>Their hearts failed them, and they were afraid, ſay<g ref="char:EOLhyphen"/>ing one to another, What is this that God hath done unto us?</hi> The men would have bin glad a little before with aſſurance of their lives, much more glad with ſome corn for ſaving the lives of their families: and now behold lives, corne, and money beſides; your ſelves can eaſi<g ref="char:EOLhyphen"/>ly apply. Onely give me leave in this Epiſtle, to be your <hi>remem<g ref="char:EOLhyphen"/>brancer</hi> in <hi>two particulars,</hi> concerning theſe glorious ſucceſſes, and and this Sermon, <hi>viz.</hi> That</p>
+            <p n="1">
+               <hi>1. Great victories are</hi> (to meere nature) <hi>great Temptations:</hi> proſperitie is an heady wine, a little of it will inflame, eſpecially if it meet with an emptie or diſtempered body; and therefore mortified <hi>Agur</hi> prefers a coarſe commons, yea, a piece of
+<note n="*" place="margin">Prov. 30.8. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Statuit.</hi>
+               </note> 
+               <hi>ſtatute-bread</hi> before
+<pb facs="tcp:152848:3"/>ſuch <hi>Cavëare.</hi> You know what befell
+<note n="*" place="margin">2 Sam. 11 2, &amp;c.</note> 
+               <hi>David,</hi> whilſt his Army was ſucceſſefull againſt <hi>Ammon,</hi> and lay beſieging <hi>Rabbath</hi> the Citie of waters.
+<note n="*" place="margin">2 Chron. 26.16.</note> You know <hi>Uzziah's</hi> ſacrificing, and <hi>Amaziah's</hi> overthrow by conquering. It is one principall end of this Sermon, as to prevent all ſuch ſurfets,
+<note place="margin">2 King. 14.7, &amp;c.</note> s;o to mortifie and ſpiritualize our mercies, that we may freely and ſafely feaſt our ſelves upon them.</p>
+            <p n="2">
+               <hi>2. Great victories are great engagements:</hi> 'Tis both a divine &amp; humane rule of proportion, that
+<note n="*" place="margin">Luk. 12.48.</note> 
+               <hi>to whom men have committed much, of him they will aske the more.</hi> The <hi>Parliament</hi> of <hi>England</hi> hath lately taken-up very great ſummes of mercy (to the uſe of the Kingdomes) upon truſt and credit, may it pleaſe you now to conſider of diſcharging theſe greateſt publike debts. May it pleaſe you as <hi>A<g ref="char:EOLhyphen"/>braham,</hi> to ſet up ſome
+<note n="*" place="margin">Gen. 22.14.</note> 
+               <hi>Jehovah-jireh,</hi> ſome proverbiall monument, <hi>[The Lord will provide.]</hi> Or as <hi>Moſes,</hi> ſome
+<note n="*" place="margin">Exod. 7 15.</note> 
+               <hi>Jehovah-niſſi;</hi> ſome monumentall altar, with <hi>[the hand upon the throne of the Lord.]</hi> Or as <hi>Samuel,</hi> ſome <hi>Eben-ezer,</hi> ſome pillar of praiſe, with a <hi>[ne plus ultra]</hi> upon it, as <hi>[the ſtone of help.]</hi> Some ſuch thing I beſeech you let there be, to carry the name of this our God to poſte<g ref="char:EOLhyphen"/>ritie: let the Lord of your hoſts have ſome <hi>jewell</hi> from you for all theſe victories; it is another end of this Sermon, to help you in this duty alſo. If your weighty occaſions will not permit you to read over the whole (as commonly we deſire to hear good news once and again) yet may it pleaſe you to caſt an eye upon
+<note n="*" place="margin">1 Sam. 7.12.</note> ſome particular pages ther<g ref="char:EOLhyphen"/>of.
+<note place="margin">As page 36, &amp;c.</note> As for my ſelf, it muſt be my prayer, <q>That this oyle of glad<g ref="char:EOLhyphen"/>neſſe may equally quicken <hi>both wheeles</hi> of your proceedings; I meane in the affaires of Religion and Liberty.</q> 'Tis not long ſince that <hi>theſe two,</hi> like
+<note n="*" place="margin">Gen. 50.</note> 
+               <hi>Joſeph</hi> and <hi>Pharaohs</hi> butler, were <hi>fellow-priſoners</hi> together, but the latter of them (ſtate-libertie) bleſſed be the Lord, is lately delivered and advanced in great part, though not without the help of the <hi>former;</hi> and now Religion, <hi>Joſeph-like,</hi> doth (in his words) ſupplicate to her quondam fellow-priſoner and ſaith, <hi>Thinke on me (or</hi> remember me with thee) <hi>when it ſhall be well with thee,
+<note place="margin">Verſe 14.</note> and ſhew kindneſſe, I pray thee, unto me.</hi> Let the <hi>King</hi> of <hi>Saints</hi> and of <hi>Nations</hi> goe on to ſettle by your hands <hi>Truth</hi> and <hi>Peace</hi> in all the Churches and common-wealths of theſe three King<g ref="char:EOLhyphen"/>doms, cauſing us more and more <hi>to feare the Lord and his goodneſſe in the latter dayes.</hi>
+               <note place="margin">Hoſ. 3.5.</note>
+            </p>
+            <closer>
+               <signed>So Prayeth continually, your ſervant for Jeſus ſake, <hi>JOHN BOND.</hi>
+               </signed>
+               <dateline>
+                  <hi>Savoy <date>Octob. 8. 1645.</date>
+                  </hi>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:152848:3" rendition="simple:additions"/>
+            <epigraph>
+               <bibl>
+                  <hi>ISAI. 25.9.</hi>
+               </bibl>
+               <q>And it ſhall be ſaid in that day, Loe, this is our God; we have waited for him, and he will ſave us: This is the Lord, wee have waited for him; wee will be glad and re<g ref="char:EOLhyphen"/>joyce in his ſalvation.</q>
+            </epigraph>
+            <opener>
+               <salute>Right Honourable, and Beloved,</salute>
+            </opener>
+            <p>
+               <label>Preface.</label> 
+               <seg rend="decorInit">I</seg> Have reaped <hi>ſome ſheaves</hi> out of this field already, and have threſhed them out in part, for the <hi>home-proviſion</hi> of mine own flock: but there is ſome of the <hi>fineſt</hi> of the <hi>wheat-flower</hi> yet remaining, which with a ſecond bolting, may make a fit <hi>meat-offering</hi> for this ſolemne day of Praiſe and Thankſgiving.</p>
+            <p>
+               <label>Coherence.</label> The whole Chapter is <hi>Euchariſticall,</hi> (rather a <hi>Pſalme</hi> than a <hi>Chapter</hi>) full loaden with mercies and praiſes from the beginning to the end thereof. And herein it is well <hi>like</hi> the ſcene of <hi>our times;</hi> for as every <hi>verſe</hi> of the one doth drop fatneſſe, ſo every <hi>weeke,</hi> and almoſt day of the other, hath preſented us with <hi>new matter</hi> and formes of rejoycing.</p>
+            <p>The cauſes of joy here expreſſed, are partly in hand; theſe are ſet down <hi>hiſtorically,</hi> in the phraſes <hi>[art]</hi> and <hi>[haſt]</hi> in the firſt four verſes: and partly <hi>in hope;</hi> theſe are expreſſed <hi>prophetically,</hi> in the futurall termes <hi>[ſhall]</hi> and <hi>[will]</hi> in the next four verſes, which doe reach-home to the text. The whole Chapter is generally moſt cleare and perſpi<g ref="char:EOLhyphen"/>cuous,
+<pb n="2" facs="tcp:152848:4"/>as becomes a Thankſgiving Sermon. Only thus, ſome Expoſitors would appropriate this to <hi>ſpi<g ref="char:EOLhyphen"/>rituall</hi> ſalvations onely; and eſpecially to that <hi>finall day</hi> of victory, when Ieſus Chriſt ſhall <hi>put all his e<g ref="char:EOLhyphen"/>nemies under his feete:</hi> and this opinion they doe fetch out of verſe 8.
+<note place="margin">1 Cor. 15.55, &amp;c.</note> where it is ſaid, that <hi>hee will ſwallow up death in victory, and the Lord will wipe away teares from all faces, &amp;c.</hi> which words are by the A<g ref="char:EOLhyphen"/>poſtle expreſly applyed to Chriſt.</p>
+            <p>Others would wholly confine this ſong of delive<g ref="char:EOLhyphen"/>rances to <hi>temporall</hi> ſalvations: and theſe doe take their hint from the verſe next beyond the Text; where mention is made of the <hi>threſhing of Moab,</hi> and of <hi>caſting it as ſtraw for the dunghill:</hi> and here a<g ref="char:EOLhyphen"/>gaine, ſome do take the word <hi>Moab literally</hi> for thoſe children of <hi>Lot</hi> which being turned enemies to <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> and <hi>Judah,</hi> were
+<note n="*" place="margin">Calvinus ad locum.</note> ſo much the farther off from them in heart and affections, by how much they were neerer to them by bloud, and habitation.</p>
+            <p>Others doe take <hi>Moab</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for all the e<g ref="char:EOLhyphen"/>nemies of the Church, which are of a <hi>Moabitiſh</hi> ſtraine and temper. I thinke the controverſie may be eaſily reconciled by <hi>taking-in both</hi> Interpretations together; that is, by underſtanding the Chapter as well of ſpirituall as of temporall deliverances. And thus alſo it will better ſute with our preſent occaſi<g ref="char:EOLhyphen"/>on and condition; for every victory which God now a-dayes gives to his great cauſe in <hi>England,</hi> doth bring with it double mercies, namely, a <hi>ſpiri<g ref="char:EOLhyphen"/>tuall ſtep</hi> or advance towards a pure Reformation; and a civill and <hi>temporall ſtep</hi> or furtherance towards outward peace and tranquilitie. So much for the
+<pb n="3" facs="tcp:152848:4"/>levelling of the way to the Text.</p>
+            <p>The Text it ſelfe is nothing elſe but an [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] or <hi>Song of victory;</hi> and it containeth that <hi>holy ſhout,</hi> or acclamation, with which the Church doth entertaine the triumphing
+<note n="*" place="margin">Revel. 15.3. Heb. 2.10.</note> 
+               <hi>King of Saints,</hi> and <hi>Captaine of</hi> her <hi>ſalvation,</hi> at his returne from the ſlaughter of their enemies.</p>
+            <p>
+               <label>Diviſion.</label> In it, you may take notice of <hi>two generall</hi> heads: </p>
+            <p>Firſt, here is the <hi>Churches confidence, [de promiſsis]</hi> of things in hope, <hi>Lo, this is our God, we have waited for him, and hee will ſave us.</hi>
+            </p>
+            <p>Secondly, here is her <hi>thankfulneſſe, [pro acceptis]</hi> for things in hand, <hi>Wee will be glad and rejoyce in his ſal<g ref="char:EOLhyphen"/>vation.</hi>
+            </p>
+            <p>Againe, in the <hi>Churches confidence</hi> you may further obſerve, the <hi>two grounds,</hi> or pillars, on which ſhee builds it:</p>
+            <p>The firſt is her <hi>intereſt in</hi> God, <hi>This is our God;</hi> therefore we may be confident that he will ſave us.</p>
+            <p>Secondly, her <hi>attendance upon</hi> God, <hi>wee have wai<g ref="char:EOLhyphen"/>ted for him;</hi> therefore hee will not forſake us: and this latter is <hi>twice</hi> expreſſed, to tell you that the <hi>Bell</hi> is <hi>an-end,</hi> and therefore ſtrikes double, <hi>Wee have wai<g ref="char:EOLhyphen"/>ted for him, wee have waited for him:</hi> implying, either the <hi>length</hi> of their attendance, wee have looked and looked again: or the <hi>largeneſſe</hi> of their reward, though wee have waited, and waited againe, yet our labour is not loſt; but God hath paid us at laſt for all our faith and patience, by the greatneſſe of the ſalvation which hee hath given us. This is the Churches con<g ref="char:EOLhyphen"/>fidence.</p>
+            <p>Secondly, in her <hi>thankfulneſſe</hi> for mercies in hand,
+<pb n="4" facs="tcp:152848:5"/>look we upon the ſeverall <hi>acts</hi> and <hi>objects</hi> thereof.</p>
+            <p>Firſt, the <hi>acts</hi> of her thankefulneſſe are two; the one <hi>tranſient,</hi> paſſing forth into outward expreſſion, <hi>wee will be glad.</hi>
+            </p>
+            <p>The other <hi>immanent,</hi> abiding within in an inward affection, <hi>wee will rejoyce.</hi> For ſo the wordes of the Text may be properly interpreted; as appeareth by comparing
+<note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>exul<g ref="char:EOLhyphen"/>tavit.</hi> So Iſa 65.9. Pro. 23.24. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Lae<g ref="char:EOLhyphen"/>taius fuit.</hi> So Exod 4.14. Pro 13.9</note> 
+               <hi>Pſal.</hi> 16. <hi>v.</hi> 9. with
+<note n="b" place="margin">
+                  <hi>Grace,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Act.</hi> 2. <hi>v.</hi> 26. <hi>There<g ref="char:EOLhyphen"/>fore did my heart rejoyce, and my glorie</hi> (or tongue) <hi>was glad.</hi>
+            </p>
+            <p>Next here is the <hi>object</hi> of theſe acts ſet downe; this is expreſſed</p>
+            <p>
+               <label>Explic.</label> Firſt in <hi>generall,</hi> ſo it is called <hi>ſalvation.</hi> But be<g ref="char:EOLhyphen"/>cauſe there are many ſorts and wayes of ſalvation, therefore next it is ſet downe with a <hi>qualification,</hi> or ſpeciall reſtriction: not ſuch a ſalvation, or delive<g ref="char:EOLhyphen"/>rance as God ſometimes beſtowes in wrath upon the wicked, for he may be their deliverer too in ſome caſes; but to ſhew that it was a ſpeciall, extraor<g ref="char:EOLhyphen"/>dinarie, immediate, <hi>divine ſalvation,</hi> ſhee calls it <hi>the ſalvation [of God,]</hi> or <hi>[his] ſalvation Loe, this is our God; we have waited for him, he will ſave us: this is the Lord, wee have waited for him; wee will be glad and rejoyce in his ſalvation.</hi>
+            </p>
+            <p>
+               <hi>[Loe,]</hi> This <hi>Ecce, behold,</hi> may referre either to the
+<list>
+                  <item>Enemies</item>
+                  <item>or,</item>
+                  <item>Friends</item>
+               </list> of the Church.</p>
+            <p>As it may referre unto the <hi>enemies,</hi> ſo (in the mouth of the Church) it is <hi>vox objurgantis,</hi> the <hi>voice</hi> of one <hi>upbraiding:</hi> As if ſhe had ſaid, <q>Come hi<g ref="char:EOLhyphen"/>ther
+<pb n="5" facs="tcp:152848:5"/> you malignant Atheiſts, yee that have ſo often asked me, while I was yet under hatches, where was then my God? What was become of my prayers? Come hither, gnaſh your teeth, and let your eyes rot in their holes when you have beheld it; <hi>Loe, this is our God.</hi>
+               </q>
+            </p>
+            <p>Or, this <hi>[Loe,]</hi> may referre to the <hi>Friends</hi> of the Church, and ſo it is <hi>vox exultantis,</hi> the voice of one <hi>over-joyed;</hi> calling upon her friends as the
+<note n="*" place="margin">Cant. 5.16.</note> Spouſe in the Canticles, to come away and ſee her be<g ref="char:EOLhyphen"/>loved, if there were any like him amongſt ten thou<g ref="char:EOLhyphen"/>ſand; to come and ſee the goings of God, and the wondrous things that he hath done for his people. As if ſhe had ſaid, <q>Yee ſaints and brethren, this, this is that God of ours whom wee have waited on ſo long, (as wee thought to little purpoſe) behold here you ſee him like himſelfe, treading his enemies under his feet, and riding in triumph over ruined Cities, and heapes of Palaces: will you but come hither and looke upon him;</q> 
+               <hi>Loe, this is our God.</hi>
+            </p>
+            <p>
+               <hi>[Our God]</hi> that is, wee are not aſhamed to call him our Lord, neither is he aſhamed to call us his people.</p>
+            <p>
+               <hi>[Wee have waited for him,]</hi> that is, wee doe <hi>not repent</hi> of our long, long attendance upon him: and good reaſon; for, <hi>[he will ſave us.]</hi> But if you will not, or cannot ſee him at once pointing, A<g ref="char:EOLhyphen"/>gaine I tell you, <hi>this is the Lord, and wee have waited for him</hi> a ſecond time: but, for double <hi>attendance</hi> wee ſhall have double <hi>wages:</hi> for wee have cauſe both to <hi>[be glad] and [rejoyce] in his ſalvation.</hi>
+            </p>
+            <pb n="6" facs="tcp:152848:6"/>
+            <p>There is not a <hi>branch</hi> of this tree but doth beare ſome ſeaſonable and profitable <hi>fruits</hi> for this dayes <hi>banquet:</hi> and although I have not time to gather them all, yet give me leave to point out unto you where they grow.</p>
+            <p>Firſt, at the very <hi>entrance,</hi> here ſtands a note of admiration, <hi>Loe, behold,</hi> which is a kind of <hi>Selah</hi> in the front: Hence obſerve,
+<q>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>1</label> 
+                  <hi>The name of the Lord is to be exalted and ſet up, when he doth triumph gloriouſly over his enemies.</hi>
+               </q>
+            </p>
+            <p>This in the Old Teſtament thoſe very <hi>club-men of Iſrael</hi> did confirme by their generall acclamation, when <hi>Elijah</hi> at Mount Carmell prayed-down that fire from heaven, that did burne up his ſacrifice, wood, ſtones, duſt, water, and all, in oppoſition to thoſe 850.
+<note place="margin">2 King 18.36</note> falſe Prophets; 'its ſaid, that <hi>when the people ſaw it they fell on their faces, and they ſaid,</hi> (mark the words) <hi>The Lord hee is the God, the Lord hee is the God.</hi> And thus in the New Teſtament, that <hi>great voice in heaven</hi> cries the ſame, where they ſay, <hi>Alle<g ref="char:EOLhyphen"/>lujah,</hi>
+               <note place="margin">Revel. 19.1, 2, 3.</note> 
+               <hi>ſalvation, and glory, and honour, and power un<g ref="char:EOLhyphen"/>to the Lord our God: and againe they ſaid, Allelujah.</hi>
+            </p>
+            <p>Let us therefore take heed how wee doe deſpiſe, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> or neglect that Angelicall, Coeleſtiall, God-ho<g ref="char:EOLhyphen"/>nouring, ſelfe-debaſing, onely-everlaſting dutie of Thankſgiving. Every mercy that is worth our pray<g ref="char:EOLhyphen"/>ers, deſerves our praiſes.</p>
+            <p>Secondly, the ground of the Churches confi<g ref="char:EOLhyphen"/>dence is her <hi>intereſt</hi> in God: <hi>[he is our God]</hi> there<g ref="char:EOLhyphen"/>fore <hi>he will ſave us.</hi>
+            </p>
+            <q> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> 
+               <hi>The Saints intereſt in God,is a ground of hope in all extremities.</hi>
+            </q>
+            <pb n="7" facs="tcp:152848:6"/>
+            <p>Labour wee therefore, as to get, ſo to improve, this holy intereſt in all our ſtreights. The <hi>mother</hi> doth love that child moſt tenderly, that doth ſuck her moſt: and herein alſo the Lord is more tender than a mother.</p>
+            <p>Thirdly, the other ground of confidence and joy too, is the Churches <hi>attendance</hi> on God; <hi>wee have waited for him, therefore he will ſave us:</hi> And again, <hi>we have waited for him, therefore we will be glad, &amp;c.</hi>
+            </p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label> 
+               <hi>Holy waiting for mercies, doth make them both ſure and ſweet unto thoſe that have ſo waited, ſo at<g ref="char:EOLhyphen"/>tended.</hi>
+            </q>
+            <p>A word to this as I goe, becauſe it is ſo uſefull, and eſpecially in reference to the Weſt.</p>
+            <p>Firſt, holy waiting doth <hi>enſure</hi> mercies; becauſe the very gift, and <hi>grace of waiting</hi> by faith, and pa<g ref="char:EOLhyphen"/>tience, is an earneſt, a firſt fruits of the thing wai<g ref="char:EOLhyphen"/>ted for. No ſon of man that is ingenious will hold a petitioner in a waiting ſuſpence and attendance, if he intends utterly to deny him:
+<note place="margin">Prov. 22.22.</note> and therefore it is ſaid, <hi>waite on the Lord, he will ſave thee:</hi> He will, how know you that? Even by this, if he give a heart to waite upon him; he cannot in honour put thee off, if hee doth ſuffer and ſupport thee to at<g ref="char:EOLhyphen"/>tend him.</p>
+            <p>Secondly, ſuch waiting doth <hi>enſweeten</hi> mercies too; becauſe <hi>abſtinence</hi> doth quicken <hi>appetite,</hi> and drawes forth the deſire to a greater length after the object: <hi>To the hungry ſoule every bitter thing is ſweet:</hi> That is,
+<note place="margin">Prov. 27.7.</note> becauſe hunger is ſuch a ſauce as doth en<g ref="char:EOLhyphen"/>ſweeten any diſh.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> Then beware of diſtruſtfull, impatient haſt. If
+<pb n="8" facs="tcp:152848:7"/>the Lord loves thee, it ſhall either deprive <hi>thee</hi> of the <hi>thing</hi> ſo over-deſired, or that <hi>thing</hi> of that <hi>ſweet<g ref="char:EOLhyphen"/>neſſe,</hi> which thou expecteſt in it.</p>
+            <p>Firſt, ſometimes ſuch over-haſt doth cauſe the <hi>loſſe</hi> of the <hi>thing</hi> ſo haſted for, ſo over-deſired. Thus it fared with that <hi>Scripture-Tantalus,</hi> the unbelieving Courtier at <hi>Samaria:</hi>
+               <note place="margin">2 King. 7.2.</note> 
+               <hi>And behold thou ſhalt ſee it with thine eyes, but ſhalt not eate thereof.</hi> Thus was it alſo with thoſe impenitent, unruly <hi>Iſraelites,</hi> which thought to continue their ſin, and yet to put an end to their troubles; which would enter <hi>Canaan</hi> before the time, in deſpight of God and <hi>Moſes,</hi> and without the Arke;
+<note place="margin">Numb. 14.40</note> 
+               <hi>Loe, we be here, and will goe up unto the place which the Lord hath promiſed; for we have ſinned.</hi> The men were deſperately ſullen, and (like ſome now a-dayes in this Land) were reſolved to have <hi>peace,</hi> whether God would or no; they are ſinners, they can but die,
+<note place="margin">
+                  <hi>verſ.</hi> 44.</note> and therefore will fall on, will have an end of their troubles. Theſe <hi>Iſraelites</hi> pre<g ref="char:EOLhyphen"/>ſumed to goe up unto the hill top, notwithſtanding the Arke of the Covenant of the Lord, and <hi>Moſes,</hi> departed not out of the Campe;
+<note place="margin">
+                  <hi>verſ.</hi> 45.</note> and <hi>the Amalekites came downe, and the Cananites came downe, and ſmote them even unto Hormah,</hi> or utter deſtruction.</p>
+            <p>Nay, <hi>Rachell</hi> her ſelfe, (although a good wo<g ref="char:EOLhyphen"/>man) when too impatiently violent for chil<g ref="char:EOLhyphen"/>dren, ſhe loſt her life in the obtaining of that, which to want ſhee thought would be her only certaine death.</p>
+            <p>Let all impatient creatures of both ſexs lay but thoſe two texts together;
+<note place="margin">Gen. 30.1.</note> 
+               <hi>Give mee children or elſe I die:</hi> and that other, <hi>And</hi> Rachell <hi>travelled, and ſhee
+<pb n="9" facs="tcp:152848:7"/>had hard labour;</hi>
+               <note place="margin">Gen. 35.18.</note> 
+               <hi>and it came to paſſe as her ſoule was de<g ref="char:EOLhyphen"/>parting,</hi> (for ſhee died) <hi>that ſhee called his name Ben<g ref="char:EOLhyphen"/>oni;</hi> that is, the ſon of my ſorrow.</p>
+            <p>Secondly, or ſuch impatient haſt doth at leaſt rob thee of the <hi>ſap</hi> and <hi>ſweetneſſe</hi> of the <hi>thing</hi> ſo over<g ref="char:EOLhyphen"/>deſired: Thus was it with <hi>Jacob,</hi> a man whoſe ſtrong affections did draw ſtrong afflictions upon him. Good man, he was (I take it) ſomewhat too <hi>uxorious</hi> about his <hi>Rachel,</hi> and accordingly ſhee coſt him deareſt, brought him leaſt fruit, and left him ſooneſt. But eſpecially hee and his mother <hi>Rebecah,</hi> were too too haſtie and covetous for the bleſſing before it was <hi>ripe:</hi> If wee conſider the manner, and the meanes that they <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d for the attainment of it, it was ſome<g ref="char:EOLhyphen"/>what a foule ſhift that they made to get it by;
+<note place="margin">Gen. 27.</note> and how much danger, hardſhip, and delay did that o<g ref="char:EOLhyphen"/>ver-haſt coſt them both? <hi>Jacob</hi> is preſently faine to <hi>flee</hi> for his life into a ſtrange Countrey; by the <hi>way</hi> he lodges hardly; and at <hi>Padan-Aram</hi> what heates, and colds by night and day; what chopping of <hi>wa<g ref="char:EOLhyphen"/>ges,</hi> with other extremities doth he undergoe, for neere the ſpace of thrice ſeven years? His <hi>father in law</hi> paying him home, for deceiving his <hi>owne father,</hi> by giving unto him a <hi>Leah</hi> for a <hi>Rachel,</hi> as he to <hi>Iſaac kids fleſh</hi> for veniſon?</p>
+            <p>Beſides in his <hi>returne,</hi> what danger upon danger doe meete and follow him? <hi>Eſau</hi> before and <hi>Laban</hi> behind; and at laſt the bleſſing from God coſt him a halting ere hee could obtaine it; and all this be<g ref="char:EOLhyphen"/>cauſe they would gather-in the bleſſing before it was ripe.</p>
+            <p>Surely, there is a vaſt <hi>difference,</hi> yea, divers dif<g ref="char:EOLhyphen"/>ferences
+<pb n="10" facs="tcp:152848:8"/>there are betwixt <hi>green</hi> fruits forced from the tree, and thoſe that are <hi>mature</hi> and ripe: There is a two fold difference betwixt them.</p>
+            <p>Firſt, in the very <hi>gathering</hi> of them; what climb<g ref="char:EOLhyphen"/>ing, and what clambering is there with ladders? What threſhing with poles? What caſting of ſtones, and ſticks to fetch them downe; to the endange<g ref="char:EOLhyphen"/>ring and miſchiefing both of the fruit and gatherer: Whereas your mature and ripe fruits doe <hi>drop down</hi> of their owne accord.</p>
+            <p>Secondly, in the <hi>uſing</hi> and <hi>injoyment,</hi> there is a great difference: Greene fruits are <hi>ſoure,</hi> and <hi>ſickly,</hi> whereas the mature ones are both <hi>toothſome,</hi> and <hi>whol<g ref="char:EOLhyphen"/>ſome,</hi> pleaſant to the eyes, and good for meat: be<g ref="char:EOLhyphen"/>ware therefore of clambering for ſoure, ſickly, green, forced mercies. But <hi>tarrie thou the Lords leiſure;</hi> ſtay till the mercie is <hi>cold</hi> enough, as well as ſodden e<g ref="char:EOLhyphen"/>nough; or elſe if thou get it too ſoon it will prove crude, and ſcalding: yea, ſtay untill thy deſires after it are coole enough alſo; it is dangerous to drinke deep in a ſweat.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> But when is a mercie <hi>coole enough</hi> for me? (may ſome men ſay) Or, when am I coole enough in my affections for it?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Firſt, when thou art brought to a <hi>holy indifferency</hi> in thy deſire; as <hi>David</hi> at <hi>Ziklag,</hi> after <hi>Sauls</hi> death, was ſomewhat indifferent whether to goe up and take the Kingdome or not: <hi>And it came to paſſe, after this,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sam. 2.1.</note> 
+               <hi>that David enquired of the Lord, ſhall I goe up in<g ref="char:EOLhyphen"/>to any of the Cities of Judah? And the Lord ſaid, Goe up. And David ſaid, Whither ſhall I goe? And the Lord ſaid, Vnto Hebron.</hi> Marke, the man did (as it were)
+<pb n="11" facs="tcp:152848:8"/>
+               <hi>ſet up his ſtaffe</hi> for a Kingdome, he is indifferent whe<g ref="char:EOLhyphen"/>ther to take it or leave it. And well might hee be thus moderate in his deſire at <hi>Ziklag</hi> above all other places; for this very <hi>Ziklag</hi> was that ſame towne, which the
+<note n="*" place="margin">1 Sam. 27. v. 1, 2, 3, with 6.</note> King of <hi>Gath</hi> had formerly given him, when, in a pettiſh pang of diſtruſtfull impatience, he left his own Countrey and fled to <hi>Achiſh</hi> ſaying, <hi>I ſhall one day periſh by the hand of</hi> Saul: In this mood he got <hi>Ziklag,</hi> which afterward he loſt againe with a witneſſe; even with all the women, children, goods, and cattell that were therein; and had like to have been there
+<note n="*" place="margin">1 Sam. 30.1, 2, 3, 4, 5, 6.</note> ſtoned by his mutinous ſouldiers. <hi>Zik<g ref="char:EOLhyphen"/>lag</hi> was haſtily gotten, and remarkably loſt; and therefore now hee will take heed of ſuch over-haſt ever after, but eſpecially at <hi>Ziklag.</hi> And hence it is, that he referrs the whole buſineſſe to the Lords pleaſure, whether hee ſhall bee King, or no King: And now the Lord thinks him fit for the Kingdome, becauſe he is <hi>indifferent,</hi> and
+<note n="*" place="margin">2 Sam. 2. <hi>v.</hi> 1, 4.</note> bids him goe up and take it.</p>
+            <p>While a <hi>patient</hi> doth inordinatly crie and roare for <hi>drinke,</hi> the Phiſitian denies it to him, and pre<g ref="char:EOLhyphen"/>ſcribes him (perhaps) julips, or ſome other coolers altogether; but above all things he muſt now have no drinke, or very little: but when afterward the patient grows ſomewhat indifferent whether he drink or no, and fals to liking of his julip, as well as of his drinke, now the Phiſitian bids them give him as much as he will have, as knowing that now his di<g ref="char:EOLhyphen"/>ſtemper is allayed, and cannot hurt him, his appe<g ref="char:EOLhyphen"/>tite is growne indifferent. Thus dealeth our <hi>ſoule-Phiſitian</hi> with thoſe whom he loves.</p>
+            <pb n="12" facs="tcp:152848:9"/>
+            <p>Secondly, when thou art <hi>content</hi> that the <hi>Lord</hi> ſhall be <hi>ſerved firſt;</hi>
+               <note n="*" place="margin">1 Sam. 2.13, 14.</note> not while thou art like <hi>Elies</hi> ſonnes and ſervants, who with thier unmannerly <hi>fleſh-hooks</hi> would ſerve themſelves before the Lord. No, come thou but to
+<note n="*" place="margin">1 King 7.1.</note> 
+               <hi>Solomons</hi> temper and me<g ref="char:EOLhyphen"/>thod; firſt to build the <hi>Lord houſe,</hi> and to doe his work, and then thou ſhalt have leave to build thine own to thy content: This by the way, now to the ſecond Generall.</p>
+            <q>
+               <hi>We will be glad and rejoyce in his ſalvation.</hi>
+            </q>
+            <p>Here are the Churches <hi>two acts,</hi> an outward ex<g ref="char:EOLhyphen"/>preſſion of <hi>gladneſſe;</hi> an inward affection of <hi>rejoycing.</hi> Here is the <hi>object,</hi> both in generall, a <hi>ſalvation,</hi> and with a reſtriction upon it, <hi>[his] ſalvation.</hi> And out of all theſe I ſhall fetch that doctrine, upon which I intend to ſpend the whole remainder of this time. Thence obſerve, that
+<q>
+                  <hi>Wee ought eſpecially to be glad and rejoyce in thoſe victories,</hi>
+                  <note place="margin">Prin. Doct.</note> 
+                  <hi>ſalvations, merc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es, which have in them moſt of God.</hi>
+               </q>
+            </p>
+            <p>Here are ſome five or ſix fingers in the Text, that doe all <hi>point out</hi> the ſpeciall hand of God in this mercy.</p>
+            <p>Firſt, the word <hi>[Loe,]</hi> it is like a <hi>digitus Mercu<g ref="char:EOLhyphen"/>rialis</hi> in the high way; yea, it puts the finger upon God, that we ſhould look to him above all, and to his ſpeciall working in this mercy, <hi>Loe, God.</hi>
+            </p>
+            <p>Next, the <hi>pointing pronoune, [this]</hi> Loe, <hi>this</hi> is God; it is his extraordinary hand and finger.</p>
+            <p>Thirdly, 'tis <hi>[our]</hi> God, that is, he hath here<g ref="char:EOLhyphen"/>in ſhewen himſelfe in his relation, the God of <hi>Iſrael.</hi>
+            </p>
+            <p>And fourthly, hee hath ſhewen himſelfe in his
+<pb n="13" facs="tcp:152848:9"/>abſolute ſoveraignty too; This is <hi>[the Lord]</hi> there<g ref="char:EOLhyphen"/>fore from all theſe you may conclude eminently, that this worke is properly and ſolely <hi>[his] ſalva<g ref="char:EOLhyphen"/>tion.</hi> There ſeemes to be a kind of <hi>holy Tautologie</hi> in the Originall, <hi>Loe God, this God, our God, the Lord, his ſalvation.</hi>
+            </p>
+            <p>
+               <hi>Loe, this is our God; we have waited for him, he will ſave us: This is the Lord, wee have waited for him; we will be glad and rejoyce in his ſalvation.</hi>
+            </p>
+            <p>
+               <q>So then, we ought eſpecially to be glad and rejoyce in this ſalvation,</q> as it hath in it much of God. I have pitched upon this ſubject, becauſe the generalitie of men doe over-look it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> But you may here object, Thoſe ſalvations that have moſt of God! why is not every victory, ſalva<g ref="char:EOLhyphen"/>tion, mercy, wrought of God? Can there be any author of theſe things beſides the Lord?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The Scripture telleth us, <hi>none other, ſalvation is onely of the Lord. I am the Lord,</hi>
+               <note place="margin">Pſal. 3.8. Iſai. 43.11.</note> 
+               <hi>and beſides me there is no Saviour.</hi> But here we muſt admit of a <hi>diſtincti<g ref="char:EOLhyphen"/>on,</hi> both of <hi>Saviours</hi> and of <hi>ſalvations.</hi>
+            </p>
+            <p>Firſt, if you conſider a <hi>Saviour</hi> efficiently, prin<g ref="char:EOLhyphen"/>cipally, independently, ſo there is no Saviour but God
+<note n="*" place="margin">Jonah 2.9.</note> 
+               <hi>ſalvation is onely of the Lord</hi> originally, and eſ<g ref="char:EOLhyphen"/>ſentially; he alone is <hi>the rock of ſalvation:</hi> and all the former places are true this way.</p>
+            <p>but if you take a Saviour <hi>inſtrumentally,</hi> deriva<g ref="char:EOLhyphen"/>tively, with dependance, ſo men may alſo be called Saviours; <hi>Thou gaveſt them Saviours who ſaved them.</hi>
+               <note place="margin">Nehem. 9.27.</note>
+            </p>
+            <p>Next, of <hi>ſalvations</hi> there are two ſorts.</p>
+            <p>Firſt, <hi>ſpirituall,</hi> reaching to the ſoule: of this the Lord is the ſole Author.</p>
+            <pb n="14" facs="tcp:152848:10"/>
+            <p>And there are <hi>temporall,</hi> outward, civill ſalvati<g ref="char:EOLhyphen"/>ons to the body, and eſtate: And theſe againe are wrought either by an ordinarie and common pro<g ref="char:EOLhyphen"/>vidence, or by ſpeciall and extraordinarie.</p>
+            <p>By <hi>ordinarie providence,</hi> when there is a ſufficien<g ref="char:EOLhyphen"/>cie in the meanes ordinarily to bring about ſuch an end, as when the greater number doth beat the leſ<g ref="char:EOLhyphen"/>ſer; This is a ſalvation in Gods common way.</p>
+            <p>But they are <hi>extraordinarie</hi> ſalvations,
+<note place="margin">
+                  <hi>Extraordi<g ref="char:EOLhyphen"/>nary ſalva<g ref="char:EOLhyphen"/>tion in</hi> 3. <hi>caſes,</hi>
+               </note> when there is not a common, naturall power in the inſtrumen<g ref="char:EOLhyphen"/>tall <hi>cauſes</hi> and meanes, to bring forth ſuch an <hi>effect,</hi> or to attaine ſuch an end; onely the Lord doth <hi>e<g ref="char:EOLhyphen"/>levate</hi> and highten them above themſelves. This may be in theſe three caſes.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, when God workes a ſalvation <hi>above the meanes;</hi>
+               <note place="margin">2 Chron. 13.</note> as when <hi>Abijahs</hi> Army of 400000. being ſurrounded by <hi>Jeroboams</hi> Army of 800000. and ta<g ref="char:EOLhyphen"/>ken at an advantage by them, yet did beat the ſur<g ref="char:EOLhyphen"/>rounders, and routed them utterly, though double the number: This was an effect above the meanes.</p>
+            <p>Or, <milestone type="tcpmilestone" unit="unspecified" n="2"/> ſecondly, when God brings about a ſalvation <hi>without meanes,</hi> at leaſt without any conſiderable, and proportionable meanes:
+<note place="margin">Exod. 14.16.</note> As when the very <hi>rod of Mo<g ref="char:EOLhyphen"/>ſes</hi> did divide the ſea: when <hi>Gideons</hi> lamps, pitchers, trumpets, did break the <hi>Midianites</hi> in pieces.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, when God doth worke, and bring about a ſalvation or deliverance quite <hi>contrary to the means:</hi> As when
+<note n="*" place="margin">Joh. 9.6, 7.</note> clay ſhall recover the eyes of the blind: when <hi>Joſephs</hi> bondage and impriſonment ſhall make him lord of his brethren. In all theſe three caſes ſal<g ref="char:EOLhyphen"/>vations are ſaid to bee extraordinarie; becauſe the <hi>water</hi> doth run higher then the <hi>ſpring-head;</hi> therefore
+<pb n="15" facs="tcp:152848:10"/>you may call them the <hi>ſalvations of God.</hi> Yea, in the Hebrew, all extraordinary, excellent, ſtrnage things, are commonly called things of God. As the great and ſtately trees, they are called the trees of God:
+<note place="margin">Pſal. 104.16.</note> 
+               <hi>The trees of Jehovah are full of ſap:</hi> That is, the ex<g ref="char:EOLhyphen"/>traordinary, excellent, tall cedars. So,
+<note place="margin">Job 1.16.</note> 
+               <hi>The fire of God is fallen from heaven, &amp;c.</hi> That is, a ſtrange and extraordinary fire. And ſo a <hi>ſalvation of God</hi> is a di<g ref="char:EOLhyphen"/>vine, extrordinarie, ſtrange deliverance. <hi>Stand ſtill,</hi>
+               <note place="margin">Exod. 14.13.</note> 
+               <hi>and ſee the ſalvation of God:</hi> That is, becauſe it was wrought miraculouſly.</p>
+            <p>I ſhall demonſtrate this whole Obſervation by parts, in two particulars.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, <hi>ſhewing</hi> the <hi>antecedent, [that]</hi> the Lord may be ſaid to bee <hi>much</hi> in ſome ſalvations, and victo<g ref="char:EOLhyphen"/>ries; yea more, much more viſible in ſome than in others.</p>
+            <p>Secondly, <hi>proving</hi> the <hi>inference,</hi> that ſuch victo<g ref="char:EOLhyphen"/>ries and ſalvations, in which there is moſt of God, <hi>ought</hi> eſpecially to glad and rejoyce our hearts. </p>
+            <p>As it is blaſphemy to imagine a moreneſſe or leſſe<g ref="char:EOLhyphen"/>of any thing in God,
+<note place="margin">The Ante<g ref="char:EOLhyphen"/>cedent in the Do<g ref="char:EOLhyphen"/>ctrine pro<g ref="char:EOLhyphen"/>ved.</note> ſo it is an abſurditie to denie that the Lord doth ſometimes <hi>put forth more,</hi> ſome<g ref="char:EOLhyphen"/>times leſſe of himſelfe, that is, of his power, wiſe<g ref="char:EOLhyphen"/>dome, juſtice, and mercy, in and upon his workes. And
+<note n="*" place="margin">
+                  <hi>Nam peculia<g ref="char:EOLhyphen"/>ris eſt quae<g ref="char:EOLhyphen"/>dam ſollicitu<g ref="char:EOLhyphen"/>do quam pro ſuis gerit, &amp;c.</hi> Calvin. <hi>ad Iſai.</hi> 52.10. Matth. 10.29 30. Matth. 6.16.</note> hence ariſeth that diſtinction of providence, into generall or common, and particular or ſpeciall. As there is a providence over ſparrows and lillies, and a providence over the haires, heads, and ſoules of Chriſtians, according to theſe <hi>graduall puttings<g ref="char:EOLhyphen"/>forth</hi> of divine providence, we doe find divers parts and <hi>members</hi> aſcribed to the Lord, after the manner
+<pb n="16" facs="tcp:152848:11"/>of men; as an <hi>arme,</hi> an <hi>hand,</hi> a <hi>finger,</hi> all fighting, and working againſt his enemies, and for the ſalva<g ref="char:EOLhyphen"/>tion and victorie of his people.</p>
+            <p>The <hi>arme</hi> of God,
+<note place="margin">
+                  <hi>Gods arme.</hi> Exod 15.16. Iſa. 52.10</note> that, I conceive, may note e<g ref="char:EOLhyphen"/>ſpecially the <hi>arme</hi> of <hi>his power:</hi> This is ſometime called, his <hi>naked and bare arme:</hi> In which expreſſion, there is an alluſion to Wreſtlers and Artificers, The <hi>Wreſtlers</hi> of old, when they deſcended into the ſand or ſtage to wreſtle, did ſtrip their <hi>armes,</hi> and having made them bare and naked, did then <hi>annoint</hi> them with oyle, that the adverſaries, which conflicted with them, might take no hold faſt upon them. Thus the Lord is ſaid to <hi>make bare his arme,</hi> when he en<g ref="char:EOLhyphen"/>treth the liſts with the enemie, as it were to trie a fall for his people.</p>
+            <p>And it may alſo be borrowed from <hi>Artificers</hi> or Handy-crafts, (as Smyths, and Carvers,) who when they goe about any extraordinary <hi>hard,</hi> or <hi>curious</hi> piece of worke, in which they would put forth their art, or ſtrength to the utmoſt, they uſe to <hi>turne up</hi> their <hi>ſleeves</hi> to the elbowes or arme-holes, that they may <hi>handle</hi> it ſtrongly and exactly: Thus alſo God is ſaid to <hi>make bare his arme</hi> for the deliverance, and reſcuing of his people.</p>
+            <p>Sometime it is called a <hi>ſtretched out arme,</hi>
+               <note place="margin">Exod. 6.6.</note> alluding to a man that labours to his utmoſt to <hi>ſtrike</hi> a full blow, or to <hi>graſp</hi> and pluck mightily at a thing. Thus the <hi>Angels</hi> that reſcued <hi>Lot</hi> out of the hands of the wicked, tumultuous <hi>Sodomites,</hi> are ſaid to <hi>put forth their hand,</hi>
+               <note place="margin">Gen. 19.10</note> 
+               <hi>and pull</hi> Lot <hi>into the houſe to them.</hi> See <hi>Iſai.</hi> 14.26, 27.</p>
+            <p>And as wee read of the <hi>arme,</hi> 
+               <note place="margin">Hand.</note> ſo of the <hi>hand</hi> of
+<pb n="17" facs="tcp:152848:11"/>the Lord. This may properly ſignifie (I conceive) the hand of his <hi>Providence,</hi>
+               <note place="margin">1 Sam 6.9.</note> 
+               <hi>Then wee ſhall know that the hand of God hath done this,</hi> ſaid the <hi>Philiſtines;</hi> that is, if ſuch and ſuch things doe fall out, then we ſhall believe that our puniſhment came immediately, and ſupernaturally, from heaven. Yea, wee read of a <hi>mighty hand,</hi> and of a <hi>right hand</hi> of God, as if hee had a <hi>left hand</hi> alſo, with which hee uſeth to feed, or help his enemies, as they are his creatures, though in judgement; but to his owne people hee lendeth his <hi>right hand,</hi> hee is <hi>dexterous</hi> in their deliverance and ſalvation.</p>
+            <p>And as wee read of the <hi>arme</hi> and <hi>hand,</hi> 
+               <note place="margin">Finger.</note> ſo elſe<g ref="char:EOLhyphen"/>where of the very <hi>finger</hi> of God, which, I ſuppoſe, may be aptly underſtood of the finger of his <hi>ſpeciall wiſdome.</hi> And thus the very <hi>Egyptian</hi> Magicians, when the Lord had non-plus'd them all with a <hi>lowſe,</hi> did crie out, <hi>This is the finger of God.</hi> So <hi>Luk.</hi> 11.20.
+<note place="margin">Exod. 8.19.</note> com<g ref="char:EOLhyphen"/>pared with <hi>Matth.</hi> 12.28. <hi>The finger of God</hi> in caſting out devils, is put for his extraordinarie, ſpeciall, ſpirituall working: <hi>If I by the finger of God,</hi> or <hi>ſpirit of God,</hi> caſt out, &amp;c. Becauſe, you know that men and women doe both play, and worke <hi>moſt curiouſly</hi> with their fingers, rather than with their armes or hands.</p>
+            <p>All theſe expreſſions doe clearly evidence, that there is a <hi>moreneſſe</hi> (if I may ſo call it) of God in ſome ſalvations than in others.</p>
+            <p>Hence alſo it is, that we doe read ſometimes of Gods <hi>workes,</hi> and then of his <hi>wonders:</hi> And amongſt his workes, of his great, mightie, excellent works; his <hi>act,</hi> his
+<note n="*" place="margin">Iſai. 28.22.</note> 
+               <hi>ſtrange act,</hi> his <hi>exceeding marvellous won<g ref="char:EOLhyphen"/>ders,</hi>
+               <pb n="18" facs="tcp:152848:12"/>and of the
+<note n="*" place="margin">Job 40.14.</note> 
+               <hi>cheife waies of God, &amp;c.</hi> The Lord puts a <hi>magis</hi> and <hi>minus</hi> upon them, to ſhew that God is extraordinarie in ſome ſalvations above others. This is the firſt particular, demonſtrating mine Ob<g ref="char:EOLhyphen"/>ſervation, by ſhewing that God is very much in ſome ſalvations.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſecond muſt prove, that <hi>the more of God</hi> there appeareth in any victorie,
+<note place="margin">The Infe<g ref="char:EOLhyphen"/>rence in the Doctrine proved.</note> or mercy, <hi>the more</hi> wee ought <hi>to be glad,</hi> and rejoyce therein. There is one <hi>new ſong</hi> or Pſalme (therefore called <hi>new,</hi> ſaith one, becauſe it may have eſpecially reference to the ſtate of things now under the Goſpel) which alone, may fufficiently declare, and confirme this particular. It is hard to ſay,
+<note place="margin">Pſal. 98.1, 2, 3, 4, &amp;c.</note> whether the expreſſions of the Lords extraordinarie hand in that ſalvation, or the exhor<g ref="char:EOLhyphen"/>tations to extraordinarie praiſe and gladneſſe for that hand of his, are more vigorouſly there expreſſed.</p>
+            <p>Firſt, <hi>O ſing unto the Lord a new ſong:</hi> Why ſo loud? Why ſo lively? <hi>For he hath done marvellous things; his right hand, and his holy arme hath gotten the victorie to him.</hi> And all this <hi>muchneſſe</hi> of God (it ſeemes) was moſt apparent and undenyable, as <hi>verſe</hi> 2. <hi>The Lord hath made knowne his ſalvation:</hi> The ſal<g ref="char:EOLhyphen"/>vation is his, it was knowne to bee his, yea, men were forced, or <hi>made</hi> to know it; nay, the very In<g ref="char:EOLhyphen"/>fidels could not chooſe but ſee, and ſay it: <hi>His righte<g ref="char:EOLhyphen"/>ouſneſſe hath he openly ſhewed in the fight of the heathen.</hi> Verſe 3. <hi>All the ends of the earth have ſeene the ſalva<g ref="char:EOLhyphen"/>tion of our God.</hi> And what of all this? Why, there<g ref="char:EOLhyphen"/>fore we ought eſpecially to be glad and rejoyce in ſuch a worke. <hi>Verſe</hi> 4. <hi>Make a joyfull noiſe unto the Lord all the earth; make a loud noiſe, and rejoyce, and
+<pb n="19" facs="tcp:152848:12"/>ſing praiſe.</hi> Verſe 5. <hi>Sing unto the Lord with the harpe.</hi> Verſe 6. <hi>With trumpet and ſound of cornet;</hi> with in<g ref="char:EOLhyphen"/>ſtruments uſed both in warre and worſhip. <hi>Verſe</hi> 7. <hi>Let the ſea roare, and the world, and they that dwell therein.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> But why ſuch <hi>moſtneſſe</hi> of joy for thoſe victories, in which there appeareth moſt of God?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Vpon theſe two <hi>grounds,</hi> or reaſons.
+<note place="margin">
+                  <hi>Grounds</hi> 2. 1. <hi>Ground.</hi>
+               </note>
+            </p>
+            <p>Firſt, becauſe the more of God in a worke, &amp;c. <hi>the more of perfection, and excellency;</hi> and by conſe<g ref="char:EOLhyphen"/>quence then, the more of lovelineſſe:
+<note place="margin">Pſal. 111.3.</note> 
+               <hi>His worke is honourable and glorious.</hi> The Originall readeth it in the abſtract, <hi>his worke</hi> (that is, every worke of his) <hi>is glory and honour.</hi> And that onely, becauſe it is <hi>his worke:</hi> For ſuch as the Parent is, ſuch will be the child; ſuch as is the work-man, ſuch muſt be his work. And in another ſong, <hi>He is the rock,</hi>
+               <note place="margin">Deut. 32.4.</note> 
+               <hi>his work is perfect.</hi> The Greek reads it plurally, his
+<note n="*" place="margin">
+                  <hi>Septuagins.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>works;</hi> implying ſaith one, both his work of Creation, and his worke of Redemption: and therefore in that Pſalme, intituled a Pſalme or Song for the <hi>Sabbath day,</hi> in which day, both thoſe volumes of Creation,
+<note place="margin">Pſal. 92.1, 2, 3, 4, 5.</note> and Redemption, or, of the Word and Works are to be ſtudied: in that ſong wee find this <hi>ſequell</hi> and inference moſt clearly and fully laid downe; namely, that we ought to <hi>rejoyce moſt</hi> in the ſalvations that are <hi>moſt divine;</hi> becauſe they are <hi>moſt glorious</hi> and perfect.</p>
+            <p>Take but a taſte in two verſes,
+<note place="margin">Verſe 4.</note> 
+               <hi>For thou Lord haſt made me glad through thy workes; I will triumph in the workes of thine hands.</hi> And why in his workes eſpe<g ref="char:EOLhyphen"/>cially? <hi>O Lord how great are thy workes!</hi>
+               <note place="margin">Verſe 5.</note> 
+               <hi>And thy thoughts are very deep.</hi>
+            </p>
+            <pb n="20" facs="tcp:152848:13"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ground. </seg>2</label> Secondly, becauſe <hi>the more of God</hi> there is in a work of deliverance and ſalvation to a people, the <hi>more</hi> may that people hope, and conclude ordina<g ref="char:EOLhyphen"/>rily <hi>the Lords neereneſſe</hi> to them, and <hi>ingagement</hi> for them, which is the greateſt nationall cauſe of rejoy<g ref="char:EOLhyphen"/>cing in the world. It is very much to have the Lord once to appeare and ſhew himſelfe openly in a cauſe for a people, or perſon: for he will not, nay, (let me ſpeak it with reverence) hee <hi>cannot</hi> then eaſily, and ſlightly, retreat and goe back againe, but his very honour is ingaged to proceed. Hence it is, that the Saints in their greateſt difficulties and diſtreſſes, have taken the advantage of <hi>this argument,</hi> even the Lords appearing for them, and have preſſed him with it, to ſpare and deliver them. Thus <hi>Moſes</hi> at <hi>Horeb,</hi> when <hi>Iſrael,</hi> by making a calfe, had ſo pro<g ref="char:EOLhyphen"/>voked the Lord,
+<note place="margin">Exod. 32.20. &amp;c.</note> that he ſaid, <hi>Let me alone, that my wrath may wax hot againſt them, and that I may conſume them.</hi> At this ſad pinch <hi>Moſes</hi> betakes himſelfe to this great argument of the Lords ingagement:
+<note place="margin">Verſe 11.</note> 
+               <hi>Why doth thy wrath wax hot againſt thy people, which thou haſt brought forth out of the land of Egypt, with great power, and with a mightie hand?</hi>
+               <note place="margin">Verſe 13.</note> 
+               <hi>Wherefore ſhould the Egyptians ſpeak, and ſay, &amp;c. Remember Abraham, Iſaac, and Ja<g ref="char:EOLhyphen"/>cob, &amp;c.</hi> And by this argument he bringeth the Lord to a kind of <hi>repentance,</hi> ſaith the Text: O high ex<g ref="char:EOLhyphen"/>preſſion!
+<note place="margin">Verſe 14.</note> 
+               <hi>And the Lord repented of the evill, which he thought to doe unto his people.</hi>
+            </p>
+            <p>The like practiſe we find in <hi>Joſhua, Moſes</hi> his Pu<g ref="char:EOLhyphen"/>pill and Succeſſor:
+<note place="margin">Jo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 7.9.</note> (it ſeemes he learn'd it of his Tutor) <hi>And what wilt thou doe to thy great name?</hi> Yea, a whole cloud of other witneſſes might be brought
+<pb n="21" facs="tcp:152848:13"/>to the ſame purpoſe. But that which hath been ſaid, doth ſuffice to evince both <hi>[that]</hi> and <hi>[why]</hi> 
+               <q>we ought eſpecially to be glad and rejoyce in thoſe ſalvations, which have in them moſt of God.</q> Next let us draw downe to Application.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>1</label> Firſt, here in the entrance let me ſpeak <hi>Reproofe</hi> to all ſuch brutiſh <hi>Carnaliſts,</hi> 
+               <note place="margin">Reprehen<g ref="char:EOLhyphen"/>ſion.</note> as both in their <hi>pray<g ref="char:EOLhyphen"/>ers</hi> for victories and ſalvations, and in their <hi>rejoycings</hi> in them, doe look altogether (at leaſt principally) at that which is carnall, temporall, and outward; but obſerve not how much or how little <hi>of God</hi> is to be ſeen there.</p>
+            <p>That you may underſtand this Vſe aright, you are to know that there are <hi>two ſides,</hi> (as I may call them) or <hi>two parts,</hi> or (to ſpeak plainly) <hi>two ſorts of benefits</hi> obſervable in every victorie.</p>
+            <p>Firſt, there is an <hi>out-ſide</hi> of mercy; that is, there are benefits externall: and there is an <hi>in-ſide;</hi> that is, all ſuch internall benefits and commodities as are gotten thereby. The <hi>out-ſide,</hi> or externalls are all the temporall, civill benefits and gaines by, with, and in a victory: as the great <hi>number</hi> of priſoners, with horſe, and armes that are taken; the great <hi>quantity</hi> of ammunition, proviſions, treaſures, &amp;c. All theſe and the like are but the out-ſide of a victo<g ref="char:EOLhyphen"/>ry; that is, the carnall, temporall benefits that do come thereby.</p>
+            <p>Secondly, in a victory there is an <hi>in-ſide,</hi> or there are benefits internall; that is, of an inward and di<g ref="char:EOLhyphen"/>vine nature: ſuch are all <hi>ſoule-mercies,</hi> and <hi>Church-mercies,</hi> and all other ſpirituall profits and advan<g ref="char:EOLhyphen"/>tages, that may bee laid up in the <hi>heart,</hi> that may
+<pb n="22" facs="tcp:152848:14"/>be laid out in the <hi>life</hi> for God, or that may be laid up in <hi>heaven</hi> for our ſelves: Theſe treaſures are the in-ſide of a victory; the former are but as the husks, the ſhells, the bones; theſe are the kernells, the fruits, the marrow within: and there is as much difference between them, as betwixt the bleſſings of <hi>Jacob</hi> and <hi>Eſau.</hi>
+               <note place="margin">Gen. 27.37.</note>
+            </p>
+            <p>Yet, alas, alas, how do the greater part of the world <hi>terminate</hi> both their deſires and joyes in thoſe carnall and huskie parts of deliverance? How doe they preferre them both in their <hi>prayers</hi> and <hi>praiſes?</hi>
+            </p>
+            <p>In their <hi>prayers</hi> they doe deprecate <hi>evils of puniſh<g ref="char:EOLhyphen"/>ment,</hi>
+               <note place="margin">Exod. 8.8.</note> ſaying, as <hi>Pharaoh, Take away,</hi> or keepe away <hi>the frogs:</hi> and in their petitions, they <hi>houle upon their beds for the corne,</hi>
+               <note place="margin">Hoſ. 7.14.</note> 
+               <hi>the wine, the oyle,</hi> that may come by ſuch a ſucceſſe. Theſe men doe meaſure victo<g ref="char:EOLhyphen"/>ries altogether by the greatneſſe of externall, tem<g ref="char:EOLhyphen"/>porall,
+<note place="margin">
+                  <hi>Two diffe<g ref="char:EOLhyphen"/>rences be<g ref="char:EOLhyphen"/>twixt the ſpirituall and tempo<g ref="char:EOLhyphen"/>rall benefits by victory.</hi> 1. <hi>In pecu<g ref="char:EOLhyphen"/>liarity.</hi>
+               </note> carnall emoluments and commodities. But that I may diſcover their errour before I enter up<g ref="char:EOLhyphen"/>on my great Vſe, let me tell them there is a <hi>vaſt difference</hi> between the <hi>ſpiritualls</hi> and the <hi>temporalls</hi> of a victory, between the in-ſide and the out-ſide, in theſe two things:</p>
+            <p>Firſt, in their <hi>peculiarity</hi> and <hi>choiceneſſe:</hi> The tem<g ref="char:EOLhyphen"/>porall profits by a victory are <hi>common</hi> to good and bad; whereas ſpirituall ones are peculiar to the Saints: the dogges as well as the children may partake of theſe ſcraps; but theſe are only the portion of ſons and daughters. When the <hi>Iſraelites</hi> were preſerved in <hi>Egypt,</hi> and went out of that land thorow the red ſea by a mighty hand,
+<note place="margin">Exod. 12.28.</note> there was <hi>a mixed multitude</hi> that went with them, which were not <hi>Iſraelites,</hi> and
+<pb n="23" facs="tcp:152848:14"/>that multitude <hi>ſhared</hi> as much in the temporall part of <hi>Iſraels</hi> ſalvation, as Gods owne peculiar people; for they paſſed thorow the <hi>ſea</hi> as on drie land as well as the others: they had their portion, and their commons in the <hi>quailes,</hi> and <hi>Manna,</hi> as well as they; as we read all along that ſtorie to <hi>Numb.</hi> 11.4. Nay, in <hi>Egypt</hi> when God preſerved his people amidſt theſe plagues, the <hi>cattell,</hi> the <hi>bullocks</hi> of the <hi>Iſraelites</hi> did ſhare in the outward part of that deli<g ref="char:EOLhyphen"/>verance, as well as the <hi>Iſraelites</hi> themſelves; for in the <hi>murraine</hi> they were all preſerved alive;
+<note place="margin">Exod. 9.4, 5, 6, 7.</note> 
+               <hi>of the cattell of the children of Iſrael died not one.</hi> But now there was a <hi>peculiar</hi> number of <hi>Iſraelites</hi> indeed, that did get higher benefits by thoſe deliverances; for they ſucked inward ſweetneſſe, and ſpirituall good out of all that chaine of mercy and ſalvation, which the common multitude did neither perceive, nor re<g ref="char:EOLhyphen"/>gard. For inſtance, <hi>Moſes</hi> got extraordinary <hi>famili<g ref="char:EOLhyphen"/>arity with God,</hi> by his long march in the wilderneſſe:
+<note place="margin">Ezod. 33.14, 17, 18, 19.</note> he prevailed for <hi>Iſraels</hi> pardon; gat the Lord himſelfe to goe with them; and obtained a ſight of his glory: Hee gat ſo farre into the <hi>boſome</hi> of God, that hee might have asked even what hee would. This was the ſpirituall good and benefit that <hi>Moſes</hi> did get and laid up by thoſe deliverances. So <hi>Caleb</hi> and <hi>Jo<g ref="char:EOLhyphen"/>ſhua,</hi> they gat <hi>other ſpirits,</hi>
+               <note place="margin">Nom. 14.24.</note> and a kind of <hi>fulneſſe in following after the Lord.</hi> Theſe ſpirituall gaines are the very exſtractions and quinteſſence of a victorie. This is the firſt difference.</p>
+            <p>Secondly, they differ in their <hi>durableneſſe,</hi>
+               <note place="margin">2. <hi>In dura<g ref="char:EOLhyphen"/>tion.</hi>
+               </note> or con<g ref="char:EOLhyphen"/>tinuance. All the temporall gaines of a victory, they are but <hi>temporary;</hi> that which is gotten by the
+<pb n="24" facs="tcp:152848:15"/>ſword, may by the ſword bee loſt againe: as wee ſee this ballance of warre and victory hath turned often in this land already; and the Saw of warre hath beene drawen from ſide to ſide many times, whileſt the poor Kingdome is cut aſunder under it: But the <hi>ſpirituall,</hi> divine, inward gaines of a Chri<g ref="char:EOLhyphen"/>ſtian are everlaſting; they are implunderable, like <hi>Maries part</hi> that could <hi>never be taken from her.</hi>
+               <note place="margin">Luke 10.42.</note> See it exemplified in <hi>David,</hi> the man after Gods owne heart: This <hi>David,</hi> in his warres with <hi>Saul,</hi> and other enemies, got (by too too hard a ſhift) <hi>Zik<g ref="char:EOLhyphen"/>lag,</hi> which he made his head quarter and place of retreat; there he laid up all his purchaſe, bag and baggage, and all the wealth that hee had gotten in all his warres: But now behold on a ſudden, this <hi>Ziklag is taken,</hi>
+               <note place="margin">1 Sam. 30.</note> and ſacked by the <hi>Amalekites,</hi> and in it, poor <hi>David</hi> looſeth at once what he had been ſo long time a gathering. Farewell now to all his temporall, temporarie, carnall, military gaines, and eſtate: and now if hee had not gotten by his wars ſome more
+<note n="*" place="margin">
+                  <hi>Si arbitrium dandi pones nos eſt, prae<g ref="char:EOLhyphen"/>cipue manſura quaeremus, ut quam minimè mortale fit munus.</hi> Sen. de Benefic. lib. 1.</note> 
+               <hi>enduring ſubſtance,</hi> ſomething of a more ſpirituall, laſting nature, he had been a man utterly undone; for he had loſt <hi>both his wives, and the City was burnt with fire, and the people ſpake of ſtoning him.</hi> But <hi>David</hi> had gotten ſomewhat elſe, and laid it up there where the <hi>Amalekites</hi> could not come at it: he had gotten a <hi>vigorous faith</hi> by long <hi>experience;</hi> and this did ſtand by him in this extremitie, and by it <hi>he incouraged himſelfe in the Lord his God.</hi> He remem<g ref="char:EOLhyphen"/>bred that the Lord had been <hi>[his God]</hi> in former deliverances; as from the
+<note n="*" place="margin">1 Sam. 17.37.</note> lion and the bear, and <hi>Saul</hi> at
+<note n="*" place="margin">1 Sam. 24.</note> 
+               <hi>Keilah, Kiph,</hi> and <hi>Maon,</hi> and thence concluded
+<pb n="25" facs="tcp:152848:15"/>that he would <hi>yet deliver him.</hi> This faith and expe<g ref="char:EOLhyphen"/>rience, which he had gotten in the time of his for<g ref="char:EOLhyphen"/>mer wars, travels, and trials, neither the <hi>Amalekites,</hi> nor all the powers of hell, were able to plunder a<g ref="char:EOLhyphen"/>way from him, but it fetcht back his temporals to him again. Therefore you ſee there is a double dif<g ref="char:EOLhyphen"/>ference between the ſpirituals and the temporals, between the in-ſide and the out-ſide of victories. This alſo was preparatorie. Now we goe to the princi<g ref="char:EOLhyphen"/>pall branch of Application.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>2</label> If [wee ought eſpecially to rejoyce and be glad in thoſe ſalvations that have in them moſt of God,] <note place="margin">Direction.</note> then be we effectually <hi>directed</hi> not to look ſo much with the eye of <hi>ſenſe</hi> upon victories and mercies, ſo doe <hi>beaſts;</hi> nor with the eye of <hi>reaſon</hi> altogether, ſo doe meere men, who are the children of this world onely; but let us look upon them with <hi>ſpirituall eyes,</hi> and taſte them with a ſpirituall palat; let us ſee, and reſent <hi>how much of God</hi> there is in them, what divine profits we doe get by them, and accordingly more or leſſe, let us <hi>rejoyce and be glad in [his] ſalvation.</hi> Every man (we ſay) yea, a bird, or beaſt can pick out the <hi>fiſh</hi> of the oyſter; but he is an Artiſt, and a wiſe man indeed, that can find and gather out the <hi>pearles</hi> that are therein. Theſe ſpirituall pearles are the things which I doe now preſſe you to ſeek after.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> I, but you will ſay, <hi>Hic labor, hoc opus eſt;</hi> here is the task indeed, <hi>how ſhall</hi> I come to know when there is <hi>more</hi> or <hi>leſſe of God</hi> in a victorie, or ſalvation? For, I grant that I ſhould rejoyce moſt in ſuch mercies, but how may I know them?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> It is the maine worke that I have deſigned my
+<pb n="26" facs="tcp:152848:16"/>ſelfe unto at this time,
+<note place="margin">
+                  <hi>The marks of Gods ſpe<g ref="char:EOLhyphen"/>ciall pre<g ref="char:EOLhyphen"/>ſence in a victory.</hi> viz. <hi>when</hi> Ju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g 14.8, 9. 1. <hi>There is much of his attributes: As,</hi>
+               </note> 
+               <hi>to help you</hi> as with a proſpe<g ref="char:EOLhyphen"/>ctive glaſſe, to ſee and <hi>diſcerne</hi> when there is <hi>moſt of God</hi> in a ſalvation, or deliverance: to teach you <hi>(Samſon-like)</hi> to find out the <hi>hony combe</hi> in the ſlaugh<g ref="char:EOLhyphen"/>tered lion, that ſo I may bottome your joy upon a ſweet and ſolid foundation.</p>
+            <p>The firſt note or marke of the muchneſſe of God in a mercy, and victory, may be this, when there is <hi>much of Gods attributes</hi> appearing in ſuch a mercy. The Lords attributes are himſelfe. <hi>The Lord paſſed before him,</hi> (that is, <hi>Moſes) and proclaimed, The Lord, the Lord God,</hi>
+               <note place="margin">Exod. 33.6, 7.</note> 
+               <hi>mercifull and gracious, long ſuffering, and a<g ref="char:EOLhyphen"/>bundant in goodneſſe and truth, &amp;c.</hi> There his mercy, juſtice, faithfulneſſe, &amp;c. are called himſelfe. Now the more of Gods attributes do ſhine eminently in any deliverance, the more of God (we may conclude) there is in it: As, the more ingredients or ſimples there are in any compoſition, or diſtillation, the more rare and excellent men doe account it, and the more of the Artiſt there is therein. To give <hi>in<g ref="char:EOLhyphen"/>ſtance</hi> in ſome of the heapes of victories which you are to conſider of this day.</p>
+            <p>What thinke wee of Gods <hi>juſtice,</hi>
+               <note place="margin">His Iuſtice.</note> hath not that ſhewed it ſelfe eminently, in <hi>hardning</hi> the hearts of the enemies in their two ſtrongeſt holds of <hi>Bridg<g ref="char:EOLhyphen"/>water</hi> and <hi>Sherborne,</hi> to over-ſtand honourable proffers, that ſo they might bring themſelves to the worſt and loweſt conditions of all others? Whereas other men that defended ſleighter places, went off with bet<g ref="char:EOLhyphen"/>ter tearmes. Well knew the Lord that you could not ſo ſafely let goe the enemies that were in <hi>Bridg<g ref="char:EOLhyphen"/>water</hi> and <hi>Sherborne</hi> (being beaſts of longer teeth, and
+<pb n="27" facs="tcp:152848:16"/>more deeply dyed in bloud) as thoſe in <hi>Bath,</hi> which were leſſe hurtfull adverſaries; therefore the Lord, in a ſpeciall manner, did ſo work it, that thoſe fier<g ref="char:EOLhyphen"/>cer <hi>wild beaſts</hi> muſt bring themſelves to be muzzled, fettered, and <hi>caged</hi> up, that they might not doe fur<g ref="char:EOLhyphen"/>ther miſchiefe abroad: and if any muſt march away, to let goe thoſe whom we need not much to fear.</p>
+            <p>Thus the Lord did ſometimes harden the heart of <hi>Pharaoh,</hi> that he ſhould not be content to come off from <hi>Iſrael</hi> upon honourable and ſafe tearmes, as he might have done at any time on this ſide the red ſea; but he ſhall follow the Lords people into the ſea,
+<note place="margin">Exod. 15.5.</note> that ſo he may at laſt <hi>ſink like a ſtone in the migtie waters.</hi>
+            </p>
+            <p>And what think you of the <hi>power</hi> of God in theſe late deliverances?
+<note place="margin">His power.</note> Was there not much of that at<g ref="char:EOLhyphen"/>tribute ſeen, in helping our Armies to take-in ſuch extraordinarily fortified, and reſolved ſtrong holds, by meere ſtrength, force, and utmoſt extremities; by aſſault, batterie, fire, and ſword? Surely to take a ſtrong place by ſtrength and ſtorme, doth argue that there is extrordinary much of God in it, eſpe<g ref="char:EOLhyphen"/>cially when ſuch a ſtorme is effected with ſo little loſſe. I might adde much more concerning the Lords <hi>wiſdome, mercy,</hi> and other attributes, that appeared even in the victories of this day; but I ſhall open theſe cabinets anon. Thus where you ſee <hi>much</hi> of Gods <hi>attributes</hi> laid out, ingaged,
+<note place="margin">When victo<g ref="char:EOLhyphen"/>ries do come in the chan<g ref="char:EOLhyphen"/>nell of the promiſes.</note> and as it were con<g ref="char:EOLhyphen"/>centred in a victory, you may conclude that there is much of God in that deliverance.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, when deliverances do flow in upon us <hi>in the channell of the promiſes,</hi> then you may be ſure
+<pb n="28" facs="tcp:152848:17"/>they are mercifull mercies, and that they have in them <hi>much of God:</hi> For the promiſes they are the <hi>buckets</hi> belonging to theſe <hi>wels</hi> and fountaines of <hi>ſal<g ref="char:EOLhyphen"/>vation.</hi>
+               <note place="margin">Iſai. 12.3.</note> 
+               <hi>Therefore with joy ſhall they draw water out of the wels of ſalvation.</hi>
+            </p>
+            <p>Theſe <hi>wels</hi> doe ſeeme to be oppoſed to thoſe <hi>ci<g ref="char:EOLhyphen"/>ſternes,</hi> which are mentioned by another Prophet; <hi>They have forſaken me the fountaine of living waters,</hi>
+               <note place="margin">Jerem. 2.18.</note> 
+               <hi>and hewen them out ciſternes, broken ciſternes, that can hold no water.</hi> The creatures are ciſternes, the Lord alone he is the fountaine, and out of this fountaine, or wel-head, we muſt draw all our ſalvations ſpi<g ref="char:EOLhyphen"/>rituall, temporall, publike, perſonall, by the buck<g ref="char:EOLhyphen"/>ets of the promiſes, and then they will prove bleſ<g ref="char:EOLhyphen"/>ſed bleſſings unto us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> But you will ſay, what promiſes can we find in all the word, that are made to the <hi>Parliament,</hi> or <hi>Armies</hi> of <hi>England?</hi> Or, what are thoſe Scripture-buckets to our nation, or condition? Can there any victories come to <hi>us</hi> in theſe channels?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> Yes, there are Scripture-promiſes to <hi>Englands Parliaments,</hi> and <hi>Armies</hi> in this preſent cauſe. Con<g ref="char:EOLhyphen"/>ſider the great promiſe to <hi>Joſhua,</hi>
+               <note place="margin">Ioſh. 1.5.</note> there you ſhall ſee a title to the promiſes given even to us: <hi>I will never leave thee nor forſake thee,</hi> ſaith the Lord to <hi>Jo<g ref="char:EOLhyphen"/>ſhua:</hi> And this may be drawne down to all <hi>Joſhua's,</hi> or ſaviours of the Lords people, to the end of the world; as appeareth by comparing that text of <hi>Jo<g ref="char:EOLhyphen"/>ſhua,</hi>
+               <note place="margin">Heb. 13.5.</note> with another in the new Teſtament: <hi>Let your converſation be without covetouſneſſe, and be content with ſuch things as you have; for he hath ſaid, I will never faile thee, nor forſake thee.</hi> Whence we learne.</p>
+            <pb n="29" facs="tcp:152848:17"/>
+            <p>Firſt, that the promiſes made to <hi>Joſhua,</hi> or any other holy man in Scripture for proviſions, and pro<g ref="char:EOLhyphen"/>tections in the Lords worke and cauſe, may very well be applied to us, and all others, in like works and cauſes.</p>
+            <p>Secondly, that a <hi>generall promiſe</hi> of the Lords pre<g ref="char:EOLhyphen"/>ſence, and aſſiſtance for us in his ſervice, is as ſuffi<g ref="char:EOLhyphen"/>cient for all <hi>particulars</hi> whereof we ſtand in need, as if they were expreſſed:
+<note place="margin">Verſe 6.</note> 
+               <hi>So that we may boldly ſay</hi> (with dividuall) <hi>the Lord is our helper.</hi> Thus there are Scrip<g ref="char:EOLhyphen"/>dividuall) <hi>the Lord is our helper.</hi> Thus there are Scrip<g ref="char:EOLhyphen"/>ture promiſes, even to our Engliſh Parliaments and Armies, in the preſent cauſe and worke.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, I conceive yet more fully, that the victories, for which wee bleſſe God this day, are come unto us in the channell of ſome particular pro<g ref="char:EOLhyphen"/>miſes.</p>
+            <p>
+               <hi>Q.</hi> This is comfort indeed (you will ſay) if you can make it out unto us.</p>
+            <p>
+               <hi>A.</hi> I will but point at <hi>two ſorts</hi> of <hi>promiſes,</hi>
+               <note place="margin">Two proper promiſes applicable to this daies mercies.</note> which ſeeme eſpecially to ſweeten this dayes mercies.</p>
+            <p>The <hi>one</hi> hath reference to <hi>that Armie,</hi> which was the inſtrument of theſe victories.</p>
+            <p>The <hi>other</hi> to our ſelves, for whom theſe inſtru<g ref="char:EOLhyphen"/>ments have done that worke.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Firſt."/> Firſt, with reference to <hi>the inſtruments themſelves:</hi> You know what an Armie they were eſteemed, and what low thoughts were taken up concerning them; then turne to that promiſe: <hi>Becauſe the fooliſhneſſe of God is wiſer then men,</hi>
+               <note place="margin">1 Cor. 1.25, 26, 27, 23, 25.</note> 
+               <hi>and the weakneſſe of God is ſtronger then men: For you ſee your calling brethren, how that not many wiſe men after the fleſh, nor many mightie, nor
+<pb n="30" facs="tcp:152848:18"/>many noble are called: But God hath choſen the fooliſh things of the world, to confound the wiſe, and God hath choſen the weake things of the world, to confound the things which are mightie; And baſe things of the world, and things which are deſpiſed, hath God choſen; yea, and things which are not, to bring to nought things that are. That no fleſh ſhould glory in his preſence.</hi> Let this text be the Motto of this new Modell.</p>
+            <p>This day (if ever) is this Scripture fulfilled in your eares: for now (if ever) hath the Lord done great things by ſuch meanes; yea, he hath confoun<g ref="char:EOLhyphen"/>ded carnall wiſedome by folly, ſtrength by weake<g ref="char:EOLhyphen"/>neſſe, and pride by humilitie: Certainly, ſuch ef<g ref="char:EOLhyphen"/>fects, ſuch deliverances as theſe, doe come down in the channell of this promiſe. That is one.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Second."/> Let me give you <hi>another promiſe</hi> with reference to <hi>your ſelves,</hi> and us (the reſt) for whom theſe deli<g ref="char:EOLhyphen"/>verances were wrought, by thoſe inſtruments. You know the generall <hi>frame of mens ſpirits,</hi> when the Lord began this turne of things, I hope wee were pretty well weaned from creature-confidence, and as low as ever in our owne eyes. Then turne to that other promiſe, <hi>Deut.</hi> 32.36, 37, 38, 39. <hi>For the Lord ſhall judge his people, and repent himſelfe for his ſervants, when he ſeeth that their power is gone, and there is none ſhut up, or left. — And he ſhall ſay, where are their gods, their rock in whom they truſted. — See now, that I, even I am hee, and there is no god with mee: I kill, I make alive; I wound, and I heale; neither is there any that can deliver out of my hand.</hi> When men are moſt low and loſt in their owne eyes, and doe moſt of all diſtruſt themſelves, and the outward meanes,
+<pb n="31" facs="tcp:152848:18"/>looking up wholly to the Lord; then if they get a deliverance it is in mercie, and flows in upon them in the channell of this and the like promiſes. Such mercies cannot taſte of the cask.</p>
+            <p>Honourable, and Beloved, let me inſtance here as a weſterne man; the eyes of the poor <hi>priſoners of hope</hi> in the Weſt, have been long, long time lifted up toward theſe Eaſterne hils for help, and for their reliefe: There was a firſt, a ſecond Army ſent down, but alas, mens eyes and hearts were taken up with too much expectation, and confidence (I believe) in thoſe Armies which were commanded by that excellent Peere, and by that valiant Knight; and I cannot but think, that one <hi>principall cauſe</hi> why thoſe Noble Generalls could doe no more for thoſe Coun<g ref="char:EOLhyphen"/>ties, was this, becauſe the people did look upon them too much. If once wee doe make Idols of our Jew<g ref="char:EOLhyphen"/>els, then the Lord will break them in pieces: and 'tis a mercy; for if wee ſhould get deliverance by Ido<g ref="char:EOLhyphen"/>lized meanes and inſtruments, our ſpirituall loſſes thereby, would be much greater than our temporall gaines and commodities.</p>
+            <p>Obſerve wee therefore, <hi>what an Army</hi> the Lord hath now ſent down into thoſe parts, and what in<g ref="char:EOLhyphen"/>ſtruments hee doth there imploy; even an Army of <hi>ſtrangers,</hi> men much unknown to the people of thoſe Countries both by face and name, leſt they ſhould Idolatrouſly, and carnally look upon them. Thus hee cauſeth (in mercy) the Weſterne deliverance (as he did their affliction) to ariſe unexpectedly <hi>out of the duſt.</hi> And this is a ſigne of a <hi>gracious mercy,</hi> when the Lord ſo bringeth about the Victories, and
+<pb n="32" facs="tcp:152848:19"/>ſalvations of his people, that hee doth croſſe <hi>ſelfe,</hi> and kill corruption in them, even by the mannaging and ordering of their mercies.</p>
+            <p>This is <hi>a double conqueſt,</hi> even of corruption, and of outward enemies both at once. Doubly bleſſed be his name for ſuch twinning favours as theſe. This was the ſecond note, or mark, that there is much of God in a ſalvation, when it comes <hi>in the channell of the Promiſes.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly,
+<note place="margin">When they are the fruits of du<g ref="char:EOLhyphen"/>ty: As, Of Prayer.</note> when it is the <hi>fruit of holy meanes</hi> and <hi>du<g ref="char:EOLhyphen"/>ties,</hi> as of <hi>prayer,</hi> and <hi>praiſes;</hi> when it comes in the way of duties. Let me inſtance, but in thoſe two which I have mentioned.</p>
+            <p>And firſt <hi>in prayer,</hi> when a ſalvation comes in the way of prayer: You know how <hi>Jacob</hi> got his garland,
+<note place="margin">Gen. 32. Hoſ. 12.4.</note> his new name of <hi>Iſrael,</hi> even by <hi>wraſtling with God;</hi> and that wraſtling was, <hi>by prayer and teares,</hi> ſaith the Prophet <hi>Hoſea:</hi> Now, what a ſolid bleſ<g ref="char:EOLhyphen"/>ſing did that prove, and how much of God appea<g ref="char:EOLhyphen"/>red there in it? It got him the name of <hi>Iſrael,</hi> it de<g ref="char:EOLhyphen"/>rived an honour to all his poſterity, and it gave them a new relation to God; which relation the Lord afterwards gloried in, and they never preſſed him with it ordinarily, but they prevailed. And therefore it was ſuch a ſolid mercy, becauſe it was gotten by prayer.</p>
+            <p>Shall I adde an inſtance of a <hi>female wraſtler? Han<g ref="char:EOLhyphen"/>nah</hi> begged a ſonne of God by prayer, and ſhee cal<g ref="char:EOLhyphen"/>led him <hi>Samuel,</hi> that is, <hi>asked of God:</hi> ſhee wrote the name of God upon the mercy, to ſhew that it was obtained by prayer;
+<note place="margin">1 Sam. 1.2. Chapters.</note> and therefore ſhee gives God all the glory, and <hi>ſets him up</hi> in her praiſes.</p>
+            <pb n="33" facs="tcp:152848:19"/>
+            <p>Now bring wee <hi>our mercies</hi> to this touch-ſtone; have any of our victories come-in by this way of prayer? have they been fruits of ſupplications, and humblings? were the hands of <hi>Moſes</hi> in the Mount,
+<note place="margin">Exod. 17.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> as well as of <hi>Joſhua</hi> in the Valley, in any of theſe great and plentifull deliverances? What think you of the <hi>verticall,</hi> criticall Victory at <hi>Nazeby?</hi> you were pleaſed to command out ſome 9. Regiments of <hi>Volunteers</hi> out of theſe Cities, I meane ſo many Congregations, to keep a ſolemne day of prayer and humiliation, (and believe it, they are <hi>your Volun<g ref="char:EOLhyphen"/>teers</hi> that muſt doe the work, both in your ſpiritu<g ref="char:EOLhyphen"/>all, and Civill <hi>Militia)</hi> theſe Regiments did beſet heaven upon the <hi>Tueſday,</hi> and loe, upon the <hi>Saturday</hi> after (in the ſame week) God gave you that <hi>Victory of victories,</hi> the great, unexpected, neceſſary, <hi>Eng<g ref="char:EOLhyphen"/>land-ſaving Victory</hi> of <hi>Nazeby.</hi>
+            </p>
+            <p>Nay, and the poore Weſt, out of its penury, may come-in here with an inſtance too; the great late <hi>turning of the Tide</hi> of that deſolate Country, was the Victory of <hi>Langport;</hi> but when was it? ſurely, the very next day after the <hi>Westerne Faſt</hi> at <hi>Black-friers;</hi> Two dayes of victory did immediatly follow that one day of humiliation.</p>
+            <p>Theſe mercies came-in like <hi>Daniels</hi> Anſwer,
+<note place="margin">Dan. 9.20.</note> 
+               <hi>When I was ſpeaking to the Lord, the Angel</hi> Gabriel <hi>came and told me, Thy prayers are heard.</hi> O! theſe are the jew<g ref="char:EOLhyphen"/>els in a Ring of victory; they are precious <hi>things of God,</hi> (and ought eſpecially to be recorded) when mercies are the fruits of prayer.</p>
+            <p>So when they are the <hi>fruits of praiſe</hi> too:
+<note place="margin">Of Praiſes.</note> I read that <hi>Jehoſhaphat</hi> had a great victory given-in as the
+<pb n="34" facs="tcp:152848:20"/>fruit of praiſe,
+<note place="margin">2 Chron <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.22.</note> 
+               <hi>When they began to ſing praiſes to the Lord,</hi> (that is, for a promiſe of deliverance ſent by the Prophet) <hi>The Lord ſet ambuſhments againſt the chil<g ref="char:EOLhyphen"/>dren of Ammon, Moab, and Mount Seir, which were come againſt Judah, and they were ſmitten.</hi> And hath not the Lord anſwered your praiſes too, as well as your prayers? Certainly, there are mercies in this kind to be found out. As, when you gave command to praiſe the Lord for <hi>Nazeby victory,</hi> that very <hi>morn<g ref="char:EOLhyphen"/>ing</hi> God ſent the tydings of the regaining of ſo-much-bewailed <hi>Leiceſter,</hi> thereby to put <hi>one ſtring</hi> more into our inſtruments of praiſes. So when you gave command for bleſſing the Lord for that <hi>We<g ref="char:EOLhyphen"/>ſterne mercy</hi> neere <hi>Langport,</hi> in that <hi>very day</hi> of praiſe, as I remember, (to ſhew how the Lord loves a thank<g ref="char:EOLhyphen"/>full people) hee did give their impregnable <hi>Bridge<g ref="char:EOLhyphen"/>water</hi> into your hands. Let us alſo obſerve this marke of God upon his ſalvations.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly,
+<note place="margin">
+                  <hi>When they are im<g ref="char:EOLhyphen"/>provements to grace and activity.</hi> 2 Chron. 14, 15, 16. Chap<g ref="char:EOLhyphen"/>ters.</note> (this is higher) when victories are <hi>improvements to grace, and holie action</hi> (it holds alſo in all other inferiour perſonall mercies.) Honourable, and Beloved, may you pleaſe to look upon that one King <hi>Aſa,</hi> God gave him a wonderfull victorie, (thoſe Chapters are proper for your reading this day) even the greateſt, I thinke, that wee read in the book of God: Ten hundred thouſand <hi>Ethiopians</hi> came up againſt him, God routed them all in one battaile: And while <hi>Aſa</hi> was meditating a thankſ<g ref="char:EOLhyphen"/>giving for this,
+<note place="margin">Chap. 15.</note> God ſent the Prophet <hi>Azariah</hi> to preach a <hi>Thankſgiving Sermon</hi> to quicken him: Here<g ref="char:EOLhyphen"/>upon ſee how <hi>Aſa</hi> expreſſeth his thankfulneſſe, prin<g ref="char:EOLhyphen"/>cipally by theſe <hi>two ſorts</hi> of duties.</p>
+            <pb n="35" facs="tcp:152848:20"/>
+            <p>Firſt, by the <hi>deſtruction of Idols</hi> and Idolatrie;
+<note place="margin">Verſ. 8. &amp; 16.</note> not ſparing the royall <hi>Priapus</hi> it ſelfe, and by the ſetting up of <hi>pure worſhip.</hi>
+            </p>
+            <p>Next, by a holy, ſtrict, willing, nationall Covenant.
+<note place="margin">Verſ. 12, 13, 14, 15.</note>
+            </p>
+            <p>O! that it might it pleaſe the father of ſpirits to bring up your hearts to this <hi>Aſa-like</hi> frame this day; both thoſe works are now ſeaſonable and neceſſary.</p>
+            <p>Firſt, the <hi>throwing downe</hi> of <hi>Idols</hi> and Idolatrie, there is to much of the old leaven ſtill remaining, if it were narrowly ſought after. I beſeech you let the remnants of <hi>Baal,</hi> and the <hi>Chemarims</hi> feele the marks and dint of our praiſes and thankſgivings this day, and let them beare thoſe marks to poſteritie. Let us ſet up <hi>monuments</hi> of our praiſe, in the deſtru<g ref="char:EOLhyphen"/>ction of ſome more remnants of Idolatrie.</p>
+            <p>There is a paire of Idols of lealouſie yet ſtanding. The one of them, I thinke, too neere the eyes of your Senate; the other (I am ſure) is too neere to my charge, and hath leavened thoſe parts too much already.</p>
+            <p>The other expreſſion of <hi>Aſa's</hi> thankfulneſſe, was the <hi>renewing</hi> of their <hi>Covenant:</hi> A Covenant is already made by us; but how much the renewing of it, and the looking after it is wanting; you heard partly this morning. I hope wee are not <hi>wearie</hi> of our Covenant? Wee doe not begin to repent, that ever we entred into that League with God? Sure I am, wee have little cauſe ſo to doe, if we obſerve the ſucceſſe of things ever ſince our Covenanting; and if we ſuffer ſome miſcarriages, and diſapoint<g ref="char:EOLhyphen"/>ments, it is becauſe there have been miſcarriages in our Covenants. But if we do not repent of this ho<g ref="char:EOLhyphen"/>ly
+<pb n="36" facs="tcp:152848:21"/>League, why do ſo many deny it? Why do ſo many others refuſe, and deſpiſe it?</p>
+            <p>O may it pleaſe you <hi>Aſa-like</hi> to doe ſome <hi>meme<g ref="char:EOLhyphen"/>rable thing</hi> for God this day.
+<note place="margin">Two Re<g ref="char:EOLhyphen"/>queſts for the Weſt.</note> And here beſides what hath been preſſed upon you <hi>for the Lords ſake</hi> alrea<g ref="char:EOLhyphen"/>dy, I have <hi>two</hi> humble ſuits to preſent unto you, with reference to the Weſterne occaſions of this dayes praiſes.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> One is, that eſpeciall care may be taken to put in able <hi>ſpirituall gariſons</hi> into thoſe three Weſtern Towns now rednced: every one of them being doubly con<g ref="char:EOLhyphen"/>ſiderable; partly for their <hi>long</hi> time of <hi>ſlavery</hi> under the enemie, in which they could not but contract deepe ignorance, prophaneneſſe, and malignitie; and partly for their <hi>ſituation,</hi> ſtrength, and greatneſſe, they being ſome of the moſt eminent places in all thoſe parts. Such ſpirituall gariſons, even in prudence, are well nigh as neceſſarie as your Military ones.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Mine other humble ſuite is <hi>concerning the Covenant,</hi> that the poor ſouls, in thoſe lately reduced Coun<g ref="char:EOLhyphen"/>tries, may not have it abruptly forced upon them, without due preparation, and humiliation; not as the <hi>Spaniards baptized</hi> the <hi>American Indians</hi> by droves, and heaps, but rather that the buſineſſe may be or<g ref="char:EOLhyphen"/>dered as <hi>Hezekiah</hi> did order his people for the <hi>Paſſe<g ref="char:EOLhyphen"/>ver,</hi>
+               <note place="margin">2 Chron. 30.</note> with all due warning, inſtruction, and conſide<g ref="char:EOLhyphen"/>ration. I beſeech you give them time and meanes, firſt to <hi>diſgorge</hi> and cleanſe themſelves thorowly, of the many direfull, anti-Covenant, perjurious com<g ref="char:EOLhyphen"/>binations, that many poor wretches, in thoſe parts, have ſwallowed ſince they were under the power of the enemie. Let them firſt <hi>ſhave their heads, and pare
+<pb n="37" facs="tcp:152848:21"/>their nailes,</hi> as the
+<note n="*" place="margin">Deut. 21.12, 13.</note> ſtrange virgin of old was com<g ref="char:EOLhyphen"/>manded to doe, and ſo let them enter into that ſa<g ref="char:EOLhyphen"/>cred, and dreadfull Covenant. Thus labour to ſet up ſome expreſſions of reall thankfulneſſe this day to the Lord; for when there are ſuch improvements of graces by our deliverances, they have in them much of God.</p>
+            <p>But now on the <hi>contrary</hi> ſide, if our deliverances, and victories, inſtead of improving our <hi>graces,</hi> ſhould improve our <hi>corruptions</hi> (which God forbid) and in<g ref="char:EOLhyphen"/>ſtead of laying us lower in our owne eyes, ſhould lift up our hearts in a wrong way; you may gueſſe at the ſad conſequence from <hi>Vzziah.</hi>
+               <note place="margin">2 Chron. 26.</note> This King had gotten many victories, and his heart was lifted up by them, but it was in <hi>pride,</hi> not in <hi>thankefulneſſe;</hi> for he uſurped the <hi>power of ſacrificing.</hi> What was the iſſue? It ended in <hi>leproſie;</hi> and ſo God did thruſt him out of his houſe, and did ſet him aſide from the government of the Kingdome.</p>
+            <p>Nay,
+<note place="margin">2 Chron. 16.</note> good <hi>Aſa</hi> himſelf when he had gotten theſe great victories, hee turned aſide to <hi>unteachableneſſe,</hi> and <hi>carnall compliance</hi> with <hi>Benhadad</hi> the King of <hi>A<g ref="char:EOLhyphen"/>ram;</hi> and when there came a Prophet and told him of his fault, hee was <hi>angrie</hi> with the Prophet, and perſecuted him; yea, and <hi>he oppreſſed ſome of the peo<g ref="char:EOLhyphen"/>ple at the ſame time.</hi> But what was the end of this too? All <hi>Aſa's</hi> glory, acts, and victories, went out in a <hi>ſnuffe: He was ſick in his feete, and he turned a<g ref="char:EOLhyphen"/>ſide to the Phifitians, and died.</hi> The Text layes a blot upon his name at laſt, he died as a pettiſh man, not thorowly perfect in the way of the Lord.</p>
+            <p>It is pittie that <hi>faire weather</hi> ſhould do any harme;
+<pb n="38" facs="tcp:152848:22"/>that ſo ſweet a root ſhould bring forth ſuch deadly fruits as theſe: Therefore I conclude with that of <hi>Ezra;</hi>
+               <note place="margin">Ezra 9.13, 14</note> 
+               <hi>When we have received ſuch deliverances as theſe, ſhould we again break the Lords commandements? Would he not be angrie with us till he had conſumed us, that there ſhould be no remnant, nor eſcaping?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> But you will ſay, <hi>wherein</hi> ſhould our victories improve us? In <hi>what graces?</hi> In what particulars?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> You have had many good hints, and helps, to day already;
+<note place="margin">Victories ſhould im<g ref="char:EOLhyphen"/>prove us in</note> Take theſe five more, in ſo many words.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, ſuch ſalvations ſhould improve us in our <hi>de<g ref="char:EOLhyphen"/>pendance</hi> upon a tryed God:
+<note place="margin">Dependance</note> If hereafter the tyde of victorie ſhall turn again, and you ſhall be brought back ſomewhat neer your old low condition, yet I be<g ref="char:EOLhyphen"/>ſeech you remember this <hi>very day,</hi> in which you are to give thanks for five victories at once: Remember when you are in that low eſtate, that there was a day when God ſerved you in with <hi>five pheaſants</hi> in a diſh,
+<note place="margin">1 S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 17.37. 2 Cor. 1.10.</note> with <hi>a feaſt of fat things:</hi> He is ſtill the ſame, and his yeares doe not faile.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, let theſe victories and ſalvations im<g ref="char:EOLhyphen"/>prove us in <hi>love and prayer:</hi>
+               <note place="margin">
+                  <hi>Love and Prayer.</hi> Pſal 116.1, 2.</note> 
+               <hi>I love the Lord, becauſe he hath heard my voice, and ſupplications: I will call upon him ſo long as I live.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, let them improve <hi>holineſſe</hi> in our con<g ref="char:EOLhyphen"/>verſations:
+<note place="margin">
+                  <hi>Holineſſe.</hi> Pſal 50. ult.</note> 
+               <hi>to offer thanks and praiſe, and to order our converſations aright:</hi> they may not be ſeperated, be<g ref="char:EOLhyphen"/>cauſe God hath joyned them together;
+<note place="margin">Obad. 17.</note> 
+               <hi>Vpon mount Sion there ſhall be deliverances, and there ſhall be holineſſe;</hi> or, they ſhall eſcape, and they ſhall be holy.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly,
+<note place="margin">Self-denyall</note> in <hi>humilitie,</hi> and ſelfe denyall: Thus
+<pb n="39" facs="tcp:152848:22"/>did mercy worke with <hi>Jacob, I am leſſe</hi> (ſaith <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee,
+<note place="margin">Gen. 32.9, 10</note> when hee was greateſt in eſtate) <hi>then the leaſt of all the mercy, and of all the truth, that thou haſt ſhewed to thy ſervant.</hi>
+            </p>
+            <p>Nay, good old <hi>David,</hi>
+               <note place="margin">2 Sam. 7.18, 19.</note> when God had loaded him with benefits, hee goes in, and as if hee were not a<g ref="char:EOLhyphen"/>ble to ſtand under the mercies promiſed, hee <hi>ſits</hi> be<g ref="char:EOLhyphen"/>fore the Lord, and there his heart runnes abroad as melting waxe in his boſome, in a thankfull, humble acknowledgement, <hi>What am I? and what is my fathers houſe, that thou haſt brought me hitherto?</hi>
+            </p>
+            <p>Laſtly, let it improve us in <hi>holy activity</hi> for God: <hi>Hee is my God, and my fathers God:</hi> And what of that?
+<note place="margin">Exod. 15.2.</note> 
+               <hi>Therefore I will prepare him an habitation.</hi> So in another place, <hi>I am thy ſervant, and the ſonne of thine hand<g ref="char:EOLhyphen"/>maid, thou haſt looſed my bonds.</hi> I am thy born-ſervant,
+<note place="margin">Pſal. 116.</note> and thy bought-ſervant, and therefore am ready to ſerve thee in righteouſneſſe and holineſſe all the daies of my life. Thus you ſee I have haſted thorow foure ſeverall marks and notes of Gods eſpeciall preſence in a deliverance. There is but one remaining, which I will diſpatch with brevity.</p>
+            <p>Fifthly, and finally, <milestone type="tcpmilestone" unit="unspecified" n="5"/> (to come neareſt to the work of this day) would you know when there is very much of God in a ſalvation or victory,
+<note place="margin">Circum<g ref="char:EOLhyphen"/>ſtantiall im<g ref="char:EOLhyphen"/>preſſions of God.</note> that accor<g ref="char:EOLhyphen"/>dingly you may be very much in praiſe and rejoy<g ref="char:EOLhyphen"/>cing? It is when a victory carries with it ſome par<g ref="char:EOLhyphen"/>ticular <hi>circumſtantiall impreſsions</hi> of God. We ſay
+<note n="*" place="margin">In Moreli<g ref="char:EOLhyphen"/>bus plus valet circumſtantia quam ſubſtan<g ref="char:EOLhyphen"/>tia.</note> in Morals, that the circumſtance is more then the ſub<g ref="char:EOLhyphen"/>ſtance. So many times in victories, the adjuncts may be more then the matter. The cutting of a ſtone may be more precious than the ſtone it ſelfe: and the
+<pb n="40" facs="tcp:152848:23"/>ſtamp and workmanſhip of more value then the me<g ref="char:EOLhyphen"/>tall. Theſe holy, divine circumſtances of mercies, are the things that doe ſet them higher or lower in the eye and heart of every prudent, ſpirituall diſcer<g ref="char:EOLhyphen"/>ner; eſpecially when they appeare to be the parti<g ref="char:EOLhyphen"/>cular impreſſions of God. I would bring this home to the mercies for which wee bleſſe the Lord this day. And here, to ſhew you the circumſtantiall im<g ref="char:EOLhyphen"/>preſſions,
+<note place="margin">The occaſi<g ref="char:EOLhyphen"/>ons of this Thanksgi<g ref="char:EOLhyphen"/>ving conſi<g ref="char:EOLhyphen"/>dered in their</note> and <hi>foot-ſteps</hi> of the Lord, I deſire you,
+<list>
+                  <item>Firſt, to look upon them in their bulk and quan<g ref="char:EOLhyphen"/>tity.</item>
+                  <item>Secondly, in their parcels and qualities.</item>
+               </list>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, look on the ſalvations of this day in their <hi>bulk</hi> and <hi>quantity,</hi>
+               <note place="margin">Quantity.</note> as they doe lie together: And here I deſire you to remember, that this day of Thankſ<g ref="char:EOLhyphen"/>giving is not <hi>like other</hi> dayes of this kind; for it is not for <hi>one</hi> ſingle ſalvation, deliverance, or victory, that you doe bleſſe the Lord this day: nor for one <hi>paire</hi> of mercies, in the duall: no, nor for a paire of paires; but for <hi>an heap,</hi> a multitude of victories. I am perſwaded confidently, that ſince our unnaturall diviſions began, you have not had ſo many eminent cauſes of thankſgiving, upon any one day of praiſe and rejoycing; nor upon any Thankſgiving day might you ſo properly have taken up thoſe words of the Pſalmiſt as now,
+<note place="margin">Pſal. 68.19.</note> 
+               <hi>Bleſſed be the Lord who daily loads us with his benefits, even the God of our ſalvation, Selah.</hi> And therefore the work of this day would require the skill of the Maſter of the muſick; as in the Ti<g ref="char:EOLhyphen"/>tle of that Pſalme.</p>
+            <p>The Papiſts talk carnally, and ſuperſtitiouſly very
+<pb n="41" facs="tcp:152848:23"/>much about <hi>the five wounds</hi> of Chriſt: and you know what
+<note n="*" place="margin">
+                  <hi>King of</hi> Por<g ref="char:EOLhyphen"/>tugali.</note> King it is that accounts it a great deale of honour to carry thoſe five wounds in his Armes: Sure I am, you are to bleſſe the Lord for no leſſe then five ſeverall <hi>healings</hi> and deliverances this day; yea, for five compleat Victories; and every victo<g ref="char:EOLhyphen"/>ry is doubly as much again as a deliverance. There<g ref="char:EOLhyphen"/>fore you have now <hi>five dayes works</hi> to doe in one.</p>
+            <p>Shall I count the number of them? You heard ſomething this way to day already: But I ſhall ſpeak onely of this dayes mercies.</p>
+            <p>Remember <hi>Scarborough;</hi> remember that of <hi>Wales;</hi> remember <hi>Bridgewater;</hi> remember <hi>Bath;</hi> remember <hi>Sherborne.</hi> Lo, a whole <hi>handfull of mercies;</hi> indeed, for every finger a ſeverall mercie. The Lord hath deſerved our hearts-full of thankfulneſſe this day.</p>
+            <p>Certainly, the <hi>firſt-fruits</hi> of the <hi>Weſt</hi> doe come-in (me thinks) as the firſt-fruits of <hi>Canaan</hi> did;
+<note place="margin">Num. 13.23, 24.</note> not ſingly, and by units; but as the <hi>grapes of Eſhcol,</hi> by loading <hi>cluſters.</hi> It is a ſeries, a chaine, a ſtreame of victories that the Lord hath given us of late: hee ſeems to faſten victories to our Armies.</p>
+            <p>I remember it is ſaid of the <hi>Athenians,</hi>
+               <note place="margin">Pauſanias.</note> that in a politique kind of fancy they made the Image of their Goddeſſe [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] Victory, without wings, whereas other people did paint her winged. Their reaſon was, that ſhee might ſtay with their Armies, and not fly over to the enemies ſide. Certainly, God hath given you ſuch an unwinged <hi>Victoria,</hi> as flyes not off from your Armies. Shee ſeems to have <hi>arms</hi> indeed, for ſhee fights for you; and to have <hi>legges,</hi> for ſhee followes your Camps; but is without wings,
+<pb n="42" facs="tcp:152848:24"/>being fixed and dwelling amongſt us, ever ſince this new deſpiſed Modell went forth to battell. And ſo faſt doth one victory tread upon the heeles of a<g ref="char:EOLhyphen"/>nother, that as one ſaid wittily, (O let us ſpeak it humbly) <q>The noble Generall ſeemes to have ta<g ref="char:EOLhyphen"/>ken the worke of this warre (to doe) not by the day, but at a task.</q>
+            </p>
+            <p>Now they ſay of <hi>Phyſick,</hi> (Honourable and Be<g ref="char:EOLhyphen"/>loved) that though it be weak in quality, yet if it be much in quantity it will work even upon a flat and dull conſtitution: Doe but conſider this great quantity of theſe your mercies.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> But the <hi>qualities</hi> of them ſhould be yet more ef<g ref="char:EOLhyphen"/>fectuall,
+<note place="margin">Quality: at</note> as they have the <hi>impreſsions of God</hi> upon them. Next therefore let us conſider them in their parcels and qualities. Shall I take them abroad?</p>
+            <p>Firſt of all,
+<note place="margin">1. <hi>Scarbo<g ref="char:EOLhyphen"/>rough.</hi>
+               </note> there is that <hi>Northerne Castle,</hi> that ſo long, and often hath been attempted, and tampered withall, but all in vaine: A Caſtle that was a kind of <hi>Amphibion;</hi> a Monſter, that offended us as well by ſea as by land; and like a <hi>Crocadile,</hi> preyed up<g ref="char:EOLhyphen"/>on us in both elements. This conſideration ſhould make the mercy double in our eſteeme, (and as I may ſay) a two-handed-mercy: behold this is now given up into your hands; and with it, that great Apoſtate of the North, who is paid home <hi>(Ahab<g ref="char:EOLhyphen"/>like)</hi> in that place where hee ſinned.</p>
+            <p>Secondly,
+<note place="margin">2. <hi>Haver<g ref="char:EOLhyphen"/>ford-Weſt.</hi>
+               </note> there is a <hi>field victory</hi> given you too, that the Lord might appeare to be the God of the <hi>mountaines</hi> as well as of the <hi>valleys,</hi> in the field as well as in the City: a field-victory at <hi>Haverford-Weſt</hi> in <hi>Wales.</hi> But when, and how was that beſtowed?
+<pb n="43" facs="tcp:152848:24"/>Marke the time and manner in which that blow was given: the Lord did <hi>cut them</hi> in a dangerous, unſeaſonable ſeaſon. There is great difference be<g ref="char:EOLhyphen"/>tween the <hi>cuts</hi> that hee gives to his enemies, and to his people: The one is when <hi>the ſap is downe,</hi> and ſo is rather a <hi>pruning</hi> then a <hi>felling;</hi> and ſuch have been the former cuts which in mercifull ju<g ref="char:EOLhyphen"/>ſtice hee hath ſometimes given your Armies. But the Lord gives the enemy a cut when the <hi>ſap is up,</hi> when they are riſing, growing, and gather<g ref="char:EOLhyphen"/>ing; and when a cut will undoe them, then God provides to give them a blow. And ſuch was that ſtroake, or wound in Wales.
+<note place="margin">Deut. 32.35.</note> 
+               <hi>Their feet ſhall ſlide in due time,</hi> faith <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſes,</hi> concerning the Churches enemies, in his Swan-like ſong: <hi>In due time;</hi> when is that? When they are <hi>at top.</hi> Hee doth often<g ref="char:EOLhyphen"/>times ſuffer the enemy to climbe higher, and yet higher, and wee ſtand wondering what hee means in letting him to goe up another,
+<note place="margin">—<hi>Tolluntur in altum ut lapſu gravi<g ref="char:EOLhyphen"/>ore ruant.</hi> Claud.</note> and yet another round of proſperity, and preferment! have pati<g ref="char:EOLhyphen"/>ence man, hee is not high enough yet to break his neck: Therefore the Lord ſuffers them to climbe, and climbe, and climbe againe; but tarry a while (I ſay) and thou ſhalt ſee when hee is high enough to break his neck, that <hi>his feet ſhall ſlide in due time.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> But thirdly, ſhall I open the <hi>principall Cabinet</hi> for you? (beſides the Northerne mercy,
+<note place="margin">In the Weſt, theſe,</note> and that of Wales) the greateſt cauſes of this dayes thankſ<g ref="char:EOLhyphen"/>giving, are your victories <hi>in the Weſt.</hi> Victories in the Weſt? Harke, how Paradox-like it ſounds! this is like the newes of * <hi>Joſephs</hi> life and prefer<g ref="char:EOLhyphen"/>ment
+<pb n="44" facs="tcp:152848:25"/>to hopeleſſe <hi>Jacob,</hi> upon which wee read, <hi>Jacobs heart fainted;</hi>
+               <note place="margin">Gen. 45.26.</note> 
+               <hi>for hee believed them not.</hi> It is as <hi>Joſephs waggons,</hi>
+               <note place="margin">Verſ. 27, 28.</note> at ſight of which, <hi>the ſpi<g ref="char:EOLhyphen"/>rit of Jacob revived, and Iſrael ſaid, It is enough:</hi> So ſay I, It is enough, the Weſt (my mother) is yet alive; O that I could goe and ſee it before I dye. O that ſad ſyllable [the Weſt] a Country ſo help<g ref="char:EOLhyphen"/>leſſe, and hopeleſſe, that the enemy thought it a kind of charmed or enchanted parcell of ground, too hot for any Parliamentary forces to ſtand upon.</p>
+            <p>
+               <hi>The West,</hi> that heretofore hath been as <hi>Naza<g ref="char:EOLhyphen"/>reth,</hi> as the Mountaines of <hi>Gilboa,</hi> as a <hi>Golgotha</hi> to other parts. What! and is there now <hi>good</hi> (newes) <hi>out of Nazareth?</hi> Is there ſome <hi>dew</hi> of comfort <hi>up<g ref="char:EOLhyphen"/>on Mount Gilboa?</hi> Doe the <hi>drie bones of Golgotha be<g ref="char:EOLhyphen"/>gin to heare a noyſe,</hi>
+               <note place="margin">Ezek <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7.7, 8, &amp;c.</note> 
+               <hi>and come together, bone to his bone?</hi> doe they live and ſtand up upon their feet, a great Armie? O my ſoule, they are praiſing the Lord for Three Weſterne victories this day! Oh, how willingly could I here fall to ſinging of thoſe ver<g ref="char:EOLhyphen"/>ſes of <hi>Hannahs</hi> ſong,
+<note place="margin">1 Sam. 2. v. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.</note> they are exceeding proper to this day, with relation to theſe Weſterne mer<g ref="char:EOLhyphen"/>cies.</p>
+            <p>But I would draw nearer, and ſee this great ſight more particularly, this burning buſh that is not con<g ref="char:EOLhyphen"/>ſumed. There are no leſſe then <hi>two</hi> of the five Weſterne <hi>Counties</hi> reduced by theſe victories; and in theſe two, a City, a Town, a Caſtle taken-in; can you reckon up more ſorts? Let us ſeriouſly view all theſe.</p>
+            <p>Firſt,
+<note place="margin">Bath.</note> the <hi>City of Bath</hi> is the <hi>City of waters:</hi> And
+<pb n="45" facs="tcp:152848:25"/>in the taking-in thereof, the Lord ſhewed you <hi>how eaſily</hi> hee could take a City. For there the God of ſpirits caſting a damp upon the ſpirits of the men which ſhould have been the defendants, they were not Maſters of their owne courage, an <hi>Ignis fatuus</hi> was enough to ſtorme them; for upon the ſight (it ſeemes) of a blaze, they ſent out for con<g ref="char:EOLhyphen"/>ditions of peace. So that upon the gates of that City the Generall might properly write, (as you heard to day). <hi>[Veni, vidi, vici,]</hi> I came, I ſaw, I overcame. Thus the greateſt of thoſe three places, the City, was moſt eaſily taken-in.</p>
+            <p>But ſecondly,
+<note place="margin">Bridgewa<g ref="char:EOLhyphen"/>ter.</note> the Towne of <hi>Bridge-water</hi> was a place as fully ſtrengthened as the Enemies them<g ref="char:EOLhyphen"/>ſelves could deſire. They had notice enough (Gods providence ſo diſpoſing) to provide themſelves with men, armes, fortifications, ammunitions, trea<g ref="char:EOLhyphen"/>ſure, victuals, all things; and it ſeemes they had accordingly taken their ſeaſon; for the <hi>greateſt birds</hi> in that County, whoſe condition was moſt deſpe<g ref="char:EOLhyphen"/>rate, betook themſelves to that Town, as concei<g ref="char:EOLhyphen"/>ving it their moſt impregnable Fortreſſe, their beſt <hi>Aſylum.</hi>
+            </p>
+            <p>This place is <hi>ſummoned,</hi> but they muſt not yield, becauſe the Lord would ſhew us here <hi>how hardly</hi> hee could take-in a Town, as hee had ſhewed us in <hi>Bath, how eaſily</hi> hee could doe it: And becauſe it was not ſafe for us to let theſe men goe, there<g ref="char:EOLhyphen"/>fore that enemy muſt take a courſe that wee ſhall be ſure to make them Priſoners; they will be ta<g ref="char:EOLhyphen"/>ken by ſtorm. Well, ſtormed they are, through fire
+<pb n="46" facs="tcp:152848:26"/>and water; and when they had brought themſelves to a deſperate condition, that nothing but meere mercy could be hoped for, then they muſt give up themſelves, becauſe it was neceſſary for us to take them Priſoners. And mark here (in the cloſe) the different diſpenſations of Providence, fire-bals <hi>could not burne in Lyme,</hi> but they <hi>can burne at Bridge<g ref="char:EOLhyphen"/>water.</hi>
+            </p>
+            <p>Thirdly,
+<note place="margin">Sherborne.</note> (finally) there is a <hi>Castle</hi> taken-in too, yea, the Caſtle of <hi>Sherborne:</hi> O that firſt <hi>Weſterne</hi> neſt of the Cockatrices egges, the <hi>cradle</hi> of <hi>Cava<g ref="char:EOLhyphen"/>lieriſme,</hi> the very <hi>bagge</hi> of the Weſtern Impoſthume; now I hope the bagge is plucked out: The ſoare gathered againe the laſt time, becauſe onely the Impoſthumation was then let-out, but the bagge it ſelfe was not taken away; and therefore a com<g ref="char:EOLhyphen"/>pany of Club-men, (Neuters for their matter, a<g ref="char:EOLhyphen"/>cted by Malignants for their forme) were now ga<g ref="char:EOLhyphen"/>thered together thereabouts, to have hatched a ſe<g ref="char:EOLhyphen"/>cond Warre.</p>
+            <p>This <hi>Sherborne</hi> Caſtle was the very
+<note n="*" place="margin">Judg. 20.14.</note> 
+               <hi>Gibeah</hi> of of the <hi>Weſt;</hi> the firſt place that durſt to hold forth its defiance of the Aſſembly of Iſrael, in defence of thoſe Delinquents that had raviſhed Religion, and Juſtice: and the Neutrall <hi>Club-men</hi> thought now to make it their <hi>Succoth,</hi>
+               <note place="margin">Judg. 8.6, 8.</note> and <hi>Penuel,</hi> in which they might confide, and ſo denied reliefe to the Armies of Iſrael. But behold this Caſtle is alſo ſtormed, and taken, and that upon the old termes; becauſe here were as dangerous birds as in <hi>Bridge<g ref="char:EOLhyphen"/>water.</hi> All theſe have yielded upon the <hi>Syrian</hi> terms
+<pb n="47" facs="tcp:152848:26"/>too, martching out as <hi>Benhadads</hi> Meſſengers came to the King of Iſrael, even with <hi>roaps about their necks,</hi> and <hi>ſack-cloth on their loynes,</hi>
+               <note place="margin">1 Kin. 20.32.</note> and with the ſame voice in their mouths, <hi>Wee pray thee let us live.</hi>
+            </p>
+            <p>What ſhall I ſay? If I ſhould turne this Feaſt into a Faſt, by ſpeaking away both the day and my ſpirits, yet ſhould I not be able to unkernell this five-fold crop, or cluſter of victories. Onely let me intreat you, in the feare of God, to lay all theſe things together, and then reſolve whether it ought not to <hi>be ſaid in this day, Lo, this is our God, wee have waited for him, and hee will ſave us: This is the Lord, wee have waited for him, wee will be glad and rejoyce in his ſalvation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152848:27"/>
+         </div>
+      </body>
+   </text>
+</TEI>
